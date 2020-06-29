@@ -1,0 +1,9 @@
+srs,attribute,value,attribute_len,log_attribute_len,word_count,log_word_count
+SRS441497,platform,Illumina HiSeq 2000,19,4.321928094887363,3,2.0
+SRS438070,SCIENTIFIC_NAME,Homo sapiens,12,3.700439718141092,2,1.584962500721156
+SRS1884219,sex,not applicable,14,3.9068905956085187,2,1.584962500721156
+SRS2222927,molecular data type,SNP Genotypes (NGS),19,4.321928094887363,3,2.0
+SRS1630076,age,2 years,7,3.0,2,1.584962500721156
+SRS752582,disease,Acute Myeloid Leukemia,22,4.523561956057013,3,2.0
+SRS877909,genotype,124,3,2.0,1,1.0
+SRS1274093,protocol,48h dox induction,17,4.169925001442312,3,2.0

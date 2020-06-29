@@ -5,13 +5,12 @@ Predicting missing metadata with using recurrent neural network (RNNs) based ent
 
 Substituting your GH `username` below, you can clone this repo with
 ```bash
-git clone https://username@github.com/gwarmstrong/cse253-final-project.git
+git clone https://username@github.com/aklie/predictMEE.git
 ```
 
-Then, install the package with
+Then, install the necessary requirement packages with
 ```bash
-cd cse253-final-project
-pip install -e .
+cd predictMEE
 ```
 
 ## Training models with colorme
