@@ -1,0 +1,11 @@
+srs,attribute,value
+SRS712566,SCIENTIFIC_NAME,Drosophila melanogaster
+SRS1736082,genotype,Missing
+SRS1493301,age,adult
+ERS074829,strain,SC16
+ERS387829,sex,mixed sex
+SRS537259,molecular data type,Whole Exome (NGS)
+SRS2215620,cell type,"cell line, chronic myelogenous leukemia, untreated"
+DRS017404,disease,thymic carcinoma
+SRS749305,protocol,in situ Hi-C
+SRS442271,platform,Illumina HiSeq 2000
