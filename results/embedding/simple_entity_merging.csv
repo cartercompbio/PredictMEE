@@ -1,0 +1,46 @@
+,GroupName,I,attribute,similarity
+0,Species,0,SCIENTIFIC_NAME,1.0
+1,Species,1,organism,0.9509139136578647
+2,Species,2,Species,0.8893375553196154
+3,Species,3,Organism,0.8722454077589499
+4,Species,4,host,0.8668614443548468
+5,Species,5,host scientific name,0.8430304195126255
+6,Species,6,host_scientific_name,0.822146473393748
+7,Species,7,specific host,0.8104508001121651
+8,Species,8,host organism,0.8046625424368444
+9,Cell type,0,cell type,1.0
+10,Cell type,1,cell_type,0.9428148528985143
+11,Cell type,2,source cell type,0.938531032719969
+12,Cell type,3,cell types,0.9147538589404324
+13,Cell type,4,source_name,0.9095025262647097
+14,Cell type,5,cell description,0.900401976632929
+15,Cell type,6,cell-type,0.8968906092156501
+16,Cell type,7,progenitor cell type,0.8934718906395139
+17,Cell type,8,CellType,0.8714166526347199
+18,Cell type,9,tissue/cell type,0.8562285353859838
+19,Cell type,10,cell subtype,0.8415180088761184
+20,Cell type,11,cell,0.8238000028952159
+21,Cell type,12,differentiation status,0.818538073361578
+22,Cell type,13,biomaterial_type,0.8096613462650389
+23,Cell type,14,cell line source,0.8087684415326587
+24,Genotype,0,genotype,1.0
+25,Genotype,1,genotype/variation,0.9438730084957603
+26,Genotype,2,plant genotype,0.8818589876638415
+27,Genotype,3,Genotype,0.8581757601347475
+28,Genotype,4,mutant,0.8418855105205438
+29,Genotype,5,ArrayExpress-Genotype,0.837915579209187
+30,Genotype,6,host genotype,0.8341188121912503
+31,Genotype,7,mutation,0.8261592180043745
+32,Genotype,8,paternal genotype,0.8120660403496712
+33,Genotype,9,host_genotype,0.8085078010915344
+34,Condition/Disease,0,disease,1.0
+35,Condition/Disease,1,diagnosis,0.9128911760608114
+36,Condition/Disease,2,cancer type,0.8949286102473244
+37,Condition/Disease,3,tumor type,0.889301513852067
+38,Condition/Disease,4,disease state,0.8327913521133493
+39,Condition/Disease,5,clinical history,0.8299787920393152
+40,Tissue,0,tissue,0.9999999999999999
+41,Tissue,1,tissue_type,0.9533325075799491
+42,Tissue,2,organism part,0.8641857533285356
+43,Tissue,3,tissue type,0.8354768788703101
+44,Tissue,4,tissue-type,0.8118511516209725
