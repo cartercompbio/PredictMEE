@@ -1,0 +1,449 @@
+,predicted,orig_text,recovered_txt,actual
+2544,Species,32% Streptococcus mutans UA159 69,Streptococcus mutans,mixed sample
+2536,Species,68% Lactobacillus casei 4646,Lactobacillus casei,mixed sample
+2535,Species,A cucumber genomic variation map reveals impact human selection,A cucumber,cucumis sativus
+2403,Species,Bulk soils compared rhizosphere communities plant Saxifraga oppositifolia along glacier chronosequence,Saxifraga oppositifolia,unidentified bacterium
+2400,Species,CBo1 isolated gut Bactrocera oleae,Bactrocera oleae,chryseobacterium sp. 113(2015)
+2256,Species,Endophytic isolate branches Citrus sinensis,Citrus sinensis,curtobacterium sp. er1/6
+2245,Species,Environmental/Metagenome sample subarctic root fungi,subarctic root,fungi
+2066,Species,Generic sample Fusobacterium nucleatum,Fusobacterium nucleatum,fusobacterium phage funu1
+2051,Species,Generic sample Homo sapiens respiratory syncytial virus,Homo sapiens,human orthopneumovirus
+2023,Species,Generic sample Mimulus guttatus,Mimulus guttatus,erythranthe guttata
+1658,Species,Human respiratory syncytial virus,syncytial virus,human orthopneumovirus
+1655,Species,Hyphomicrobium facile subsp,facile subsp,hyphomicrobium facile
+1620,Species,Ip394_Japanese crested ibis (founder E),Ip394_Japanese crested ibis,nipponia nippon
+1607,Species,Lathyrus pratensis clone 275 reared Lathyrus pratensis,Lathyrus pratensis,acyrthosiphon pisum
+1533,Species,MIMARKS Survey related sample Borrelia burgdorferi species complex,Borrelia burgdorferi,borrelia sp. s07cg098
+1531,Species,MIMARKS Survey related sample Borrelia burgdorferi species complex,Borrelia burgdorferi,borrelia sp. s07as020
+1532,Species,MIMARKS Survey related sample Borrelia burgdorferi species complex,Borrelia burgdorferi,borrelia sp. s10cg023
+1534,Species,MIMARKS Survey related sample Borrelia burgdorferi species complex,Borrelia burgdorferi,borrelia sp. s08cg103
+1512,Species,Medicago truncatula,Medicago truncatula,mixed culture
+1421,Species,Mycobacterium lepromatosis red squirrel M1960/270411,squirrel M1960/270411,mycobacterium lepromatosis
+1301,Species,Phylogenomic characterization causative strain one largest worldwide outbreaks Legionnaires' disease occurred Portugal 2014,characterization causative,legionella pneumophila
+1271,Species,Picea engelmannii cultivated The Arboretum Horsholm University Copenhagen Denmark,Picea engelmannii,populus tremula
+1245,Species,Plant DNA metabarcoding data uncleaned surface cleaned wood subfossil tree trunks,subfossil tree,pinus sylvestris
+1244,Species,Plant DNA metabarcoding data uncleaned surface cleaned wood subfossil tree trunks,subfossil tree,pinus sylvestris
+1243,Species,Plant DNA metabarcoding data uncleaned surface cleaned wood subfossil tree trunks,subfossil tree,pinus sylvestris
+1123,Species,Root tissue samples Caladium hortulanum (MissMuffet),Caladium hortulanum,caladium bicolor
+1117,Species,SYNE2/ESR2A CALM1 loci Clupea pallisii PH3,Clupea pallisii,clupea pallasii
+1112,Species,SYNE2/ESR2A CALM1 loci Clupea pallisii PH5,Clupea pallisii,clupea pallasii
+812,Species,Small RNAs Miscanthus rhizomes,Miscanthus rhizomes,miscanthus x giganteus
+791,Species,Stable isotope probing targeting methane-utilizing bacteria arctic lake sediment,arctic lake,bacteria
+751,Species,Streptococcus agalactiae,Streptococcus agalactiae,mixed culture
+682,Species,Transcriptomics potato tubers infected Streptomyces turgidiscabies,Streptomyces turgidiscabies,solanum tuberosum
+530,Species,Uncultivated Candidatus UAP2 archaeon UBA543 genome recovered ERX552263,Candidatus UAP2,archaeon uba543
+340,Species,Whole genome analysis Clostridium saccharogumia VE202-01,Clostridium saccharogumia,[clostridium] saccharogumia
+256,Species,cecal microbiota sample Microtus brandti,Microtus brandti,lasiopodomys brandtii
+226,Species,drifting hotspot microbial diversity,microbial diversity,caulerpa taxifolia
+125,Species,foliar sample Castanea sativa,Castanea sativa,uncultured fungus
+122,Species,foliar sample Vitis vinifera,Vitis vinifera,uncultured fungus
+121,Species,foliar sample Vitis vinifera,Vitis vinifera,uncultured fungus
+110,Species,hRSV RSV+PIV3 F insert C_03,hRSV RSV+PIV3,human orthopneumovirus
+98,Species,live-1 pig low backfat thickness,live-1 pig,sus scrofa
+55,Species,sativus contaminated Alternaria brassicicola Abra43,Alternaria brassicicola,raphanus sativus var. sativus
+38,Species,treated plants polyethylene glycol PEG NaCl carried transcriptomic metabolomics measurements across time-course five days,polyethylene glycol,calotropis procera
+29,Species,unspecified weed species yellowing mosaic-like symptoms,weed species,unidentified plant
+4159,Strain,1 New Tech Library sample 21095,New Tech,2.4.1
+4120,Strain,4 mM - R-1 (ncra),R-1 (ncra),fgsc 2489
+4101,Strain,A-1 rbs,A-1 rbs,tc1769
+4007,Strain,Aspergillus niger NRRL 3 delta araR Preculture Gene expression profiling - Pa,NRRL 3,nrrl3 delta arar
+4005,Strain,Aureus strain DSM799,strain DSM799,dsm 799
+3980,Strain,CR0044 serovar Typhi 13438,CR0044 serovar,13438
+3976,Strain,CRISPR 128 genomic zebrafish loci – sgRNAs – Pull-down expt – Canonical – Mutant pool1,expt –,tu
+3931,Strain,Candida glabrata genome-wide nucleosome data Jan2809,data Jan2809,clib 138
+3929,Strain,CgPho2 ChIP Pi media w/ CgPho4,w/ CgPho4,cg40
+3837,Strain,Escherichia coli serovar O101:H33 175562,serovar O101:H33,175562
+3836,Strain,Escherichia coli serovar O11:H25 204427,serovar O11:H25,204427
+3822,Strain,Fungi PEN-treated leaves SM2 rep,SM2 rep,49
+3751,Strain,Generic sample Enterococcus columbae DSM 7374 = ATCC 51263,ATCC 51263,dsm 7374
+3474,Strain,Khuskia oryzae ATCC28132 Annotated Standard Draft,ATCC28132 Annotated,atcc 28132
+3470,Strain,LES CF sputum CF03 isolate 14,CF03 isolate,liverpool epidemic strain
+3468,Strain,LPS 48h pf 13_Replicate 1,13_Replicate 1,c57bl/6babr
+3449,Strain,Louis clinical isolate (#12),Louis clinical,68
+3261,Strain,Neurospora crassa FGSC2489 X,FGSC2489 X,2489x8790_370a
+3263,Strain,Neurospora crassa FGSC2489 X,FGSC2489 X,2489x8790 90a
+3264,Strain,Neurospora crassa FGSC2489 X,FGSC2489 X,2489x8790 305a
+3262,Strain,Neurospora crassa FGSC2489 X,FGSC2489 X,2489x8790_362a
+3158,Strain,Pyronema omphalodes CBS 100304,CBS 100304,cbs100304
+3147,Strain,RNA-seq data Paratyphi A 45157 grown stationary phase 42C,A 45157,paratyphi a
+3140,Strain,Resequencing evolved clone P4C7,clone P4C7,cc2937
+2630,Strain,Salmonella enterica enterica serovar Salmonella Monschaui 369918,Salmonella Monschaui,369918
+2241,Strain,Salmonella enterica serovar Agona SL483 uid59431 serovar Agona 9165,SL483 uid59431,9165
+2059,Strain,Salmonella enterica subsp I enterica serovar Ajiobo 63502,serovar Ajiobo,63502
+1598,Strain,Salmonella enterica subsp I enterica serovar Goelzau H120240584,serovar Goelzau,h120240584
+1379,Strain,Salmonella enterica subsp I enterica serovar Monschaui 63893,serovar Monschaui,63893
+1089,Strain,Salmonella enterica subsp I enterica serovar Stanley 32479,serovar Stanley,32479
+1076,Strain,Salmonella enterica subsp I enterica serovar Stanley 78659,serovar Stanley,78659
+693,Strain,Sample UHHS A,UHHS A,abuh434
+268,Strain,Use samples cell lines derived common laboratory model organisms,laboratory model,lvpib12
+264,Strain,VC1639 mutant polymyxin B replicate 2,polymyxin B,vc1639
+245,Strain,Wildtype head X1 single cell 33,X1 single,asexual ciw4
+224,Strain,aeruginosa PASGNDM strains isolated Singapore,PASGNDM strains,pasgndm593
+67,Strain,hot springs Yunnan Tibet,Yunnan Tibet,a12b
+47,Strain,military healthcare system,military healthcare,mrsn7485
+36,Strain,military healthcare system,military healthcare,mrsn7087
+43,Strain,military healthcare system,military healthcare,mrsn15047
+50,Strain,military healthcare system,military healthcare,mrsn7132
+48,Strain,military healthcare system,military healthcare,mrsn7376
+40,Strain,military healthcare system,military healthcare,mrsn11693
+45,Strain,military healthcare system,military healthcare,mrsn11754
+37,Strain,military healthcare system,military healthcare,mrsn7237
+42,Strain,military healthcare system,military healthcare,mrsn7498
+46,Strain,military healthcare system,military healthcare,mrsn908
+39,Strain,military healthcare system,military healthcare,mrsn7730
+44,Strain,military healthcare system,military healthcare,mrsn953
+49,Strain,military healthcare system,military healthcare,mrsn7188
+41,Strain,military healthcare system,military healthcare,mrsn3384
+38,Strain,military healthcare system,military healthcare,mrsn7140
+2,Strain,viewpoint 155,viewpoint 155,c57bl/6j & 129s5svevbrd
+1088,Cell type,14SA cells,14SA cells,fetal muscle myoblast
+1069,Cell type,3-HA ChIP-seq ES cells 4dRA 1hr DOX,4dRA 1hr,mesc 4dra
+1068,Cell type,34516 mESC 1h chase Rep 1,34516 mESC,mouse embryonic stem (mes) cells
+1067,Cell type,34521 mESC 3h chase Rep 3,34521 mESC,mouse embryonic stem (mes) cells
+1065,Cell type,37054 mESC wt 12h pulse,37054 mESC,mouse embryonic stem (mes) cells
+1062,Cell type,37061 mESC Mettl3KO #2 3h pulse,mESC Mettl3KO,mouse embryonic stem (mes) cells
+1024,Cell type,AR ChIP sequencing 2hr 100nM DHT treated VCaP cells,VCaP cells,prostate cancer cells
+1018,Cell type,Activated Erk1/2 Promotes Formation Chromatin Features Inherent Developmental Promoters Mouse Embryonic Stem Cells,Stem Cells,es cells
+997,Cell type,Aorta smooth muscle cells AoSMC2,cells AoSMC2,aorta smooth muscle cells
+953,Cell type,ChIP-Seq Med1 mES cells,mES cells,v6.5 embryonic stem cells
+950,Cell type,ChIP-Seq Smc3 mES cells,mES cells,v6.5 embryonic stem cells
+945,Cell type,ChIP-Seq analysis H3K79me2 mouse ESCs shControl knockdown treatment replicate 2,analysis H3K79me2,mouse embryonic stem cells
+938,Cell type,ChIP-Seq analysis HA-Phf5a mouse ESCs doxycycline treatment replicate 1,mouse ESCs doxycycline treatment,mouse embryonic stem cells
+935,Cell type,ChIP-Seq analysis Leo1 mouse ESCs shControl knockdown treatment replicate 1,mouse ESCs shControl knockdown treatment,mouse embryonic stem cells
+914,Cell type,Chromatin IP ERα MCF-7 cells transfected LRH-1 siRNA Replicate 1,ERα MCF-7,breast cancer
+904,Cell type,Chromatin IP HA MCF-7 cells transfected HA-LRH1 vector Replicate 2,MCF-7 cells,breast cancer
+895,Cell type,DDX5-/- mESCs Line #1 (miRNA-seq),DDX5-/- mESCs,mus musculus
+894,Cell type,DDX5-/- mESCs Line #2 (miRNA-seq),DDX5-/- mESCs,mus musculus
+893,Cell type,DKO1 H3K27ac replicate 1 ChIP-seq,DKO1 H3K27ac,human colorectal cancer cell line
+883,Cell type,DS20201 SE DNaseI-seq seed coat cell 4DPA,cell 4DPA,seed coat cell (4 days past anthesis)
+815,Cell type,ENCODE biosample ENCBS478HYO: Differentiated 3T3-L1 (Day 8),Differentiated 3T3-L1,adipocyte
+813,Cell type,ENCODE biosample ENCBS513ENC: neurons derived H1 embryonic stem cells,stem cells,neural cell
+785,Cell type,Embryonic Stem cells Jarid2 -/- rescue Jarid2K116A BAC H3K27me3 IP,Stem cells,esc serum + lif grown
+776,Cell type,Enteroendocrine Cells RNA-seq biological rep1,Enteroendocrine Cells,adult epitheial cells; proximal 1/3 of intestine
+740,Cell type,GRO-Seq analysis mouse ESCs flavopiridol treatment replicate 2,analysis mouse ESCs flavopiridol treatment,mouse embryonic stem cells
+704,Cell type,Gm6871-HA ChIP-seq mES cells,mES cells,embryonic stem cells
+696,Cell type,H3K27ac marks naïve LIS2 ES stem cells,stem cells,escs
+695,Cell type,H3K27ac marks primed LIS2 ES stem cells,stem cells,escs
+694,Cell type,H3K27ac marks primed WIS2 ES stem cells,stem cells,escs
+693,Cell type,H3K27me3 ChIP,H3K27me3 ChIP,fibroblasts
+689,Cell type,H3K27me3 marks primed WIS2 ES stem cells,stem cells,escs
+682,Cell type,H3K4me1 sequencing non-treated (DMSO vehicle) MCF-7 cells,MCF-7 cells,breast cancer cells
+677,Cell type,H3K4me3 HFFs H3K27ac HFFs input,HFFs H3K27ac,foreskin fibroblast
+673,Cell type,H3K4me3 marks naïve WIS2 ES stem cells,stem cells,escs
+651,Cell type,H3K9me3 marks naïve C1 induced stem cells,stem cells,ips cells
+646,Cell type,H3K9me3 marks naïve WIBR3 embryonic stem cells,stem cells,hes cells
+644,Cell type,H3K9me3 marks primed WIBR3 embryonic stem cells,stem cells,hes cells
+643,Cell type,H929 cells expressing FAM46CWTGFP 72 hrs rep3_total RNA,H929 cells,multiple myeloma cell line
+629,Cell type,HSC cd41low cd9low Gfi1 KO,HSC cd41low cd9low,hematopoietic stem cells cd41low cd9low
+622,Cell type,HT29 10 μM 5-Aza,μM 5-Aza,colon cancer
+620,Cell type,HUVEC AX15839 treated cells replicate 2,HUVEC AX15839,huvec cells
+617,Cell type,HUVEC AX15839 treated cells replicate 3,HUVEC AX15839,huvec cells
+614,Cell type,HUVEC PPARβ/δ DMSO 24hr normoxia replicate 1,PPARβ/δ DMSO,human umbilical vein cells
+546,Cell type,Input PolII Activin 1h ChipSeq biological replicate 2,PolII Activin,embryonic teratoma
+540,Cell type,LNCaP GIPZ EtOH AR ChIP m77,ChIP m77,prostate tumor
+538,Cell type,LNCaP shGATA2 R1881 (10nM,LNCaP shGATA2,prostate tumor
+526,Cell type,Luciferase knockdown PC3 cells using shRNa replicate 2,PC3 cells,prostate cancer cells
+523,Cell type,MC1-ZE7 cells (Em+ high fraction) Hpa II,MC1-ZE7 cells,facs sorted emerald+ es cells
+512,Cell type,Mettl3-KO EBs 0h Actinomycin treatment,Mettl3-KO EBs,embroid bodies
+510,Cell type,Mettl3-KO ESCs 0h Actinomycin treatment,Mettl3-KO ESCs,embryonic stem cells
+508,Cell type,Mmu bRG H3K27me3 replicate 1,bRG H3K27me3,basal radial glia
+409,Cell type,PR1 - Pol2 mES cells + DMSO 18 hr_ChipSeq,mES cells,v6.5 embryonic stem cells
+380,Cell type,RNA-Seq analysis CEM cells upon treatment short hairpin UTX replicate 2,analysis CEM cells upon treatment,human t cell leukemia cells
+373,Cell type,RNA-Seq analysis HCT116 FBXW7 KO cells recovery heat shock treatment replicate 1,analysis HCT116,human colon cancer cells
+362,Cell type,RNA-seq sample timecourse siRNA knock-down Tcf7l2: siRNA - Scrambled,timecourse siRNA,hepatocytes
+346,Cell type,S2 T1 H3K27ac ChIP rep1,T1 H3K27ac,s2 cell
+316,Cell type,Sample 9_P14 effector CTLs IL-2 #1,CTLs IL-2,in vitro generated ctls
+291,Cell type,Strains used generate cells must carry Fv2 sensitive allele (Fv2s),generate cells,leukemia stem cell
+281,Cell type,SuRE K562 cDNA,SuRE K562,erythroleukemia
+271,Cell type,Total RNA Pol2 ChIP-seq mES cells shSpt4 flavopiridol,cells shSpt4,v6.5 embryonic stem cells
+268,Cell type,Treg CNS2-/- Foxp3 low rep1,CNS2-/- Foxp3,regulatory t (treg) cells
+181,Cell type,bisfulfite treated genomic DNA G1 fibroblasts A,DNA G1,primary dermal fibroblasts
+179,Cell type,bisfulfite treated genomic DNA arrested,DNA arrested,primary dermal fibroblasts
+118,Cell type,human KRAS Q61H mutant form overexpressed HMEC cells [KRAS_Q61H-5],HMEC cells,human mammary epithelial (hmec) cells
+111,Cell type,long term repopulating hematopoietic stem cells control 3,stem cells,bone marrow cells
+110,Cell type,mESC m6A IP sample,mESC m6A,mouse embryonic stem cells
+93,Cell type,nucARRB1 C4-2(high nuclear ARRB1)_H3K4me3 ChIP,ARRB1)_H3K4me3 ChIP,immortalised prostate epithelial cells
+90,Cell type,overexpressed HMEC cells GFP18_control_10,cells GFP18_control_10,human mammary epithelial cells
+87,Cell type,overexpressed HMEC cells GFP18_control_7,cells GFP18_control_7,human mammary epithelial cells
+84,Cell type,overexpressed HMEC cells GFP30_control_4,cells GFP30_control_4,human mammary epithelial cells
+81,Cell type,overexpressed HMEC cells GFP30_control_6,cells GFP30_control_6,human mammary epithelial cells
+78,Cell type,overexpressed HMEC cells RAF1_overexpressed_5,cells RAF1_overexpressed_5,human mammary epithelial cells
+77,Cell type,overexpressed HMEC cells_3,HMEC cells_3,mammary epithelial cells
+76,Cell type,overexpressed HMEC cells_3,HMEC cells_3,mammary epithelial cells
+75,Cell type,overexpressed HMEC cells_5,HMEC cells_5,mammary epithelial cells
+71,Cell type,peripheral blood CD34+ cells pooled_CD34pB,cells pooled_CD34pB,peripheral blood cd34+ cells
+857,Genotype,1 cKO rep2 LPS + IL-4,+ IL-4,spi1fl/fl cd23t/+
+839,Genotype,14028s ΔSTM14_3463 + pBAD24 -2,ΔSTM14_3463 +,pbad24
+832,Genotype,3 DMSO me3 rep2,me3 rep2,h3wt
+767,Genotype,An WT No Carbon #1,WT No,wildtype
+751,Genotype,BLESS control sample mouse bone marrow,BLESS control,ssb1fl/flssb2fl/fl
+735,Genotype,ChIP Kmg wild-type rep1,Kmg wild-type,w[1118]
+730,Genotype,Chlamydomonas reinhardtii 2137 - Copper sufficient - TAP - 4,sufficient -,wt
+728,Genotype,Chlamydomonas reinhardtii 2137 - Copper sufficient - TAP - 5,sufficient -,wt
+719,Genotype,D2 Control no2,D2 Control,myoiats control
+709,Genotype,Dietary emulsifiers directly alter human microbiota composition gene expression ex vivo potentiating intestinal inflammation,gene expression,c57bl6
+702,Genotype,Drosophila melanogaster - Ovary stages 1-8 follicle cell nuclei - OR_s8 - Wild type - MNase-Seq,Wild type,modencode
+661,Genotype,Ezh2 +/- replicate1 batch2,Ezh2 +/-,sclcre
+657,Genotype,Ezh2 -/- replicate6,Ezh2 -/-,sclcre jak2v617f
+619,Genotype,Gp 3 WT L 3,WT L,sc5314
+613,Genotype,H4K8ac OR Head Nuclei D,H4K8ac OR,wild type
+610,Genotype,HWT Start-seq females NextSeq rep2,NextSeq rep2,hwt
+608,Genotype,HWT Start-seq mixed NextSeq rep2,NextSeq rep2,hwt
+607,Genotype,Human set 4 36N H3K9Ac,36N H3K9Ac,gfi1 36n/36s
+534,Genotype,Input ChIP Aly-HA w1118 rep1 (negative control,(negative control,w[1118]
+516,Genotype,Knockout Rv0954 H37Rv,Knockout Rv0954,rv0954_ko
+483,Genotype,M202 - control - rep 4,control - rep,m202
+451,Genotype,Msx1-2 (f-f) WT - LCM RNA-Seq - Stroma,WT -,control (f/f)
+436,Genotype,NPC Suv39h dn H3K9me3 ChIP-seq,Suv39h dn,suv39h double null
+376,Genotype,P0testis_mRNA_seq: WT,P0testis_mRNA_seq: WT,"wt, biological replicate 2, read1"
+375,Genotype,P0testis_mRNA_seq: WT,P0testis_mRNA_seq: WT,"wt, biological replicate 1, read1"
+371,Genotype,PET111GFP EZ 6DO rep 1,6DO rep,pet111:gfp
+370,Genotype,PET111GFP MZ 6DO rep 1,6DO rep,pet111:gfp
+369,Genotype,PET111GFP MZ 7DO rep 1,7DO rep,pet111:gfp
+315,Genotype,Productive VB18 allele PP PNA low B cells VB18 passenger mice,VB18 allele,vb18 passenger mice
+310,Genotype,Productive VB18 allele Splenic GC B cells bglobin passenger mice,VB18 allele,bglobin mice
+307,Genotype,RNA pol II ChIP-seq WT Rep2,WT Rep2,wildtype
+290,Genotype,RNAseq round 2 atmorc4/7 rep 1,atmorc4/7 rep,atmorc6
+286,Genotype,Ribosome protected fragments MZdicer 6hpf-2,MZdicer 6hpf-2,mzdicer mutant
+160,Genotype,Whole testis RNA Dnmt3C IAP/WT 20 dpp 2,Dnmt3C IAP/WT,heterozygous control
+156,Genotype,Wild Type 6 month Female Heart mRNA rep1,mRNA rep1,wild type
+153,Genotype,Wt HSC treated IFNγ+VN-4,treated IFNγ+VN-4,wild type
+100,Genotype,anti-H3 T11ph Wild type culture #1 4h,T11ph Wild,"wild type (mata/matalpha, ho::lys2/"", lys2/"", leu2::hisg/"", ura3/"")"
+98,Genotype,col0 - H3K9ac flg treated,H3K9ac flg,wt
+86,Genotype,hebibaAOC Mock Time 24 hpt,hebibaAOC Mock,mutant
+82,Genotype,htz1∆HYG Rad5+ t2 batch 3,htz1∆HYG Rad5+,htz1_delta
+81,Genotype,iPSC 7dupASD1-C2 (GDB-Cf_G) GTF2I KD,GTF2I KD,7dupasd
+61,Genotype,maize ear V12 rep 3,V12 rep,b73
+58,Genotype,maize ear V14 drought rep 2,drought rep,b73
+55,Genotype,maize leaf V14 drought rep 3,drought rep,b73
+52,Genotype,maize leaf V14 drought rep 4,drought rep,b73
+51,Genotype,maize tassel R1 rep 3,R1 rep,b73
+48,Genotype,maize tassel V12 drought rep 2,drought rep,b73
+38,Genotype,repeat 2 [Rlim KO],[Rlim KO],wt
+4,Genotype,wild type retina sample 2 (WR2),wild type,wildtype
+28,Condition/Disease,inflamed region patient B1/non-stricturing,patient B1/non-stricturing,crohn's disease
+1787,Tissue,4-6h afer egg laying,egg laying,embryonic
+1768,Tissue,5 skin extract,skin extract,adult skin
+1767,Tissue,6127 sigmoid stroma phase 1,sigmoid stroma,colon
+1674,Tissue,Barin tissue sample - rep3,tissue sample,brain
+1644,Tissue,CD Female Macroscopic inflammation Deep Ulcer (CCFA_Risk_143),Deep Ulcer,ileal biopsy
+1641,Tissue,CD Female Macroscopic inflammation No Deep Ulcer (CCFA_Risk_018),Deep Ulcer,ileal biopsy
+1638,Tissue,CD Male Macroscopic inflammation Deep Ulcer (CCFA_Risk_150),Deep Ulcer,ileal biopsy
+1635,Tissue,CD Male Macroscopic inflammation Deep Ulcer (CCFA_Risk_216),Deep Ulcer,ileal biopsy
+1632,Tissue,CD Male Macroscopic inflammation No Deep Ulcer (CCFA_Risk_134),Deep Ulcer,ileal biopsy
+1629,Tissue,CD Male Microscopic inflammation No Deep Ulcer (CCFA_Risk_060),Deep Ulcer,ileal biopsy
+1611,Tissue,Chandelier cells deep layer WT brain (CHC2-3),deep layer,frontal cortex layers 5 & 6
+1548,Tissue,DNA plasma patient P50_006 prostate cancer radical prostatectomy,P50_006 prostate,plasma before radical prostatectomy.
+1541,Tissue,DNA urine patient P50_008 prostate cancer radical prostatectomy,P50_008 prostate,urine after radical prostatectomy.
+1534,Tissue,DNA urine patient P50_010 prostate cancer radical prostatectomy,P50_010 prostate,urine before radical prostatectomy.
+1509,Tissue,Diet: High Fat,High Fat,pancreatic islets
+1512,Tissue,Diet: High Fat,High Fat,pancreatic islets
+1511,Tissue,Diet: High Fat,High Fat,pancreatic islets
+1510,Tissue,Diet: High Fat,High Fat,pancreatic islets
+1507,Tissue,Does timing matter pesticide resistance? One splice form variant MDR49 provides early,Does timing matter,whole body
+1484,Tissue,Drosophila simulans male body small RNA,body small,abdomen and thorax
+1482,Tissue,ENCODE biosample ENCBS046IMM: Heart embryonic 11,biosample ENCBS046IMM:,heart
+1464,Tissue,ENCODE biosample ENCBS504VDB: Esophagus mucosa tissue aliquot received Gingeras lab conduct RNA-Seq assays,mucosa tissue,esophagus squamous epithelium
+1458,Tissue,ENCODE biosample ENCBS765HGS: EnTEX: Colon - Transverse,biosample ENCBS765HGS:,transverse colon
+1456,Tissue,ENCODE biosample ENCBS802FTI: Midbrain 88 embyronic 11,biosample ENCBS802FTI:,midbrain
+1450,Tissue,ENCODE biosample ENCBS836VES: Skin lower leg aliquot received Gingeras lab conduct RNA-Seq assays,ENCBS836VES: Skin,lower leg skin
+1440,Tissue,ENCODE biosample ENCBS926XRV: Skin - Sun Exposed (Lower leg),ENCBS926XRV: Skin,lower leg skin
+1431,Tissue,Enteropathy-associated T-cell Lymphoma tumor tissue,tumor tissue,eatl
+1411,Tissue,Fall'12 Day 42 Control Ross Heart Fat 1210,Heart Fat,cardiac adipose
+1386,Tissue,Flag Leaf Tissue Biological Rep 2,Leaf Tissue,flag leaf
+1354,Tissue,Generic sample Ctenopharynodon idellus,sample Ctenopharynodon,gill
+1353,Tissue,Generic sample Ctenopharynodon idellus,sample Ctenopharynodon,gill
+1341,Tissue,Generic sample Neohirasea fruhstorferi,sample Neohirasea,head and thorax
+1338,Tissue,Generic sample Oreophoetes peruana,sample Oreophoetes,head and thorax
+1282,Tissue,Genetic variations rectal cancer,variations rectal,primary tumor
+1260,Tissue,H3K27ac Chimpanzee Brain OccipitalPole PT1,Brain OccipitalPole,occipital pole
+1161,Tissue,Hosui leaf defoliation research,leaf defoliation,flower buds
+1117,Tissue,Human sample Homo sapiens UUS2 tumor tissue,UUS2 tumor,uterus
+1081,Tissue,Invertebrate sample Acropora humilis: Tank - biological replicate 1 -noon- new moon,new moon,branch tip
+1075,Tissue,Kidney tumor tissue 1 RP,tumor tissue,kidney
+1072,Tissue,LD tissue sample Sus scrofa,tissue sample,longissimus dorsi
+1054,Tissue,Leaf tissue Brachypodium distachyon accession ABR6,Leaf tissue,fourth and fifth leaf
+1052,Tissue,Leaf transcriptome Euphorbia pekinensis (replicate = biological replicate 2),Leaf transcriptome,leaf (replicate = biological replicate 2)
+1049,Tissue,Leave segment region 4 (photosynthetic) collected 10pm,Leave segment,leaf segment region 4
+1047,Tissue,Leave segment region 5 (photosynthetic) collected 10pm,Leave segment,leaf segment region 5
+1023,Tissue,MCF-10A digested nuclei biological replicate 1,nuclei biological,breast
+960,Tissue,Model organism animal sample Dichorragia nesimachus,sample Dichorragia,thoracic muscle tissue or legs
+927,Tissue,Model organism animal sample litopenaeus vannamei,sample litopenaeus,gill
+914,Tissue,Multispecies transcriptome raw reads Solanum lycopersicum style tissue pollinated Solanum pennellii pollen +1 days flower opening (individual L2+P1),style tissue,style+pollen
+907,Tissue,Multispecies transcriptome raw reads Solanum pennellii style tissue pollinated Solanum lycopersicum pollen +1 days flower opening (individual P3+L3),style tissue,style+pollen
+825,Tissue,Partial transcriptome abdominal tissue female Hypolimnas bolina,abdominal tissue,abdomen
+675,Tissue,RNAseq Ptychodera flava: head regeneration 0h-3,regeneration 0h-3,"head amputation plane, anterior to collar"
+672,Tissue,RNAseq Ptychodera flava: head regeneration 96h-1,regeneration 96h-1,"head amputation plane, anterior to collar"
+619,Tissue,Sample ABHDF1 RNASeq bacteria-HDFa co-culture experiments,Sample ABHDF1,adult skin
+544,Tissue,Single-cell sequencing individual murine aortal smooth muscle cells [Harmandeep_SMC_run2_09],smooth muscle,aorta
+538,Tissue,Single-cell sequencing individual murine aortal smooth muscle cells [Harmandeep_SMC_run2_86],smooth muscle,aorta
+531,Tissue,Skin sample old subjects,Skin sample,skin (epidermal suction blister samples)
+484,Tissue,Sunflower species whole genome shotgun sequencing,whole genome,leaves
+470,Tissue,The blood sample KPGP-00336,sample KPGP-00336,blood
+465,Tissue,The integument Dazao 16 h head capsule slippage fourth molt,head capsule,integument
+457,Tissue,Thymus tissue sample male female Indian-origin rhesus macaque,tissue sample,thymus
+444,Tissue,Transcriptome analysis table grape berry cv,grape berry,baya
+442,Tissue,Triticum aestivum microspore embryogenesis sample,embryogenesis sample,anther in vitro culture
+441,Tissue,Tumor DNA STAT1 -/- mouse model human breast cancer sample M_CA-SSM3-SSM3,Tumor DNA,cl
+436,Tissue,Tumor DNA sample human female participant Texas Cancer Research Biobank Open Access Data Sharing BioProject,Tumor DNA,pancreas
+408,Tissue,WR1913 subject 10 oropharyngeal swab,WR1913 subject,oropharynx
+382,Tissue,Whole genome bisulfite sequencing control CD1A dendritic cells,Whole genome,primary cells
+373,Tissue,Whole genome sequence vervet Chlorocebus tantalus animal,Whole genome,blood cell pellet
+236,Tissue,copper treatment control sample shoot 01,sample shoot,shoots
+235,Tissue,copper treatment treated sample root 02,sample root,roots
+233,Tissue,copper treatment treated sample shoot 02,sample shoot,shoots
+197,Tissue,islet preparation 1 control condition,islet preparation,islets of langerhans
+196,Tissue,islet preparation 3 cytokine treatment,islet preparation,islets of langerhans
+195,Tissue,juvenile skin biopsy,skin biopsy,whole skin
+134,Tissue,muscle tissue Tibetan 279,muscle tissue,longissimus dorsi muscle
+132,Tissue,muscle tissue Wujin 48,muscle tissue,longissimus dorsi muscle
+121,Tissue,non-injured ovaries ovarian surgery model,surgery model,ovary
+80,Tissue,purified Tomato-positive PDAC cancer cells mouse 0758 LN metastasis - technical replicate1,LN metastasis,ln met (pdac)
+69,Tissue,rosette plant cold treatment,plant cold,shoot apices
+62,Tissue,sample ID 19,sample ID,hippocampus
+61,Tissue,sample P53hom-22c,sample P53hom-22c,tail
+60,Tissue,sample P53hom-39c,sample P53hom-39c,tail
+59,Tissue,sample P53hom-48c,sample P53hom-48c,tail
+58,Tissue,sample Rp048c,sample Rp048c,tail
+53,Tissue,scion mature leaves removed,leaves removed,"developing leaf, grafted"
+54,Tissue,scion mature leaves removed,leaves removed,"shoot apex, grafted"
+43,Tissue,specimen D015,specimen D015,regenerating tail
+2097,Age,0 days old,days old,0
+2088,Age,10 dpf old,dpf old,10
+2068,Age,16S rDNA based microbial profile ileostoma effluent collected subject 1 morning day 1,morning day,79
+2058,Age,16S rRNA based microbial profile ileostoma effluent collected subject 2 afternoon day 1,afternoon day,65
+2043,Age,2 hours post exposure,hours post,juvenile
+2040,Age,2 week dark-adapted,2 week,7 days old
+2041,Age,2 week dark-adapted,2 week,7 days old
+2037,Age,2014 Sum - mean (22101),2014 Sum,3
+2031,Age,4 hr FGF + LY294002 Rep2,4 hr,e13.5
+2029,Age,4 hr FGF + PD325901 Rep1,4 hr,e13.5
+2010,Age,5 weeks old,weeks old,5
+1994,Age,7 week age,week age,7 weeks
+1995,Age,7 week age,week age,7 week
+1991,Age,8-oxoG challenge - 60 min,60 min,8 weeks
+1975,Age,Alamo Salt Experiment Control Rep 2 - 12 h,12 h,30d
+1974,Age,Alamo Salt Experiment Treatment Rep 1 - 24 h,24 h,30d
+1946,Age,Arabidopsis thaliana Cold Treatment 12 hours,12 hours,21 day
+1896,Age,DMD sample Replicate 2 myotube day 2,day 2,1 years old
+1895,Age,DMD sample Replicate 3 myotube day 1,day 1,2 years old
+1873,Age,Day 14 Of Antibiotic Treatment Human Gut Metagenome,Day 14,68
+1871,Age,Dental lamina Pre-initiation stage rep2,Pre-initiation stage,one year old
+1777,Age,ENCODE biosample ENCBS080PZG: Established 1987 peripheral blood patient T-cell acute lymphoblastic leukemia (T-ALL) obtained two months prior death,months prior,38 year
+1601,Age,ENCODE biosample ENCBS835VCD: Day 13 (T13),Day 13,25 year
+1579,Age,Embryonic transcriptome domesticated turkey aflatoxin B1 1 day exposure liver sample 2,day exposure,day 18 embryo
+1572,Age,Embryonic transcriptome domesticated turkey aflatoxin B1 1 day exposure liver sample 6,day exposure,day 18 embryo
+1565,Age,Embryonic transcriptome domesticated turkey aflatoxin B1 1 day exposure liver sample 7,day exposure,day 18 embryo
+1510,Age,Flower inflorescence buds stage I,stage I,two years
+1351,Age,Hepatitis B booster immunisation study - 1066,booster immunisation,42
+1346,Age,Hepatitis B booster immunisation study - 1070,booster immunisation,57
+1345,Age,Hepatitis B booster immunisation study - 1070,booster immunisation,57
+1336,Age,Hepatitis B booster immunisation study - 1776,booster immunisation,28
+1150,Age,Injured spinal cord Trachemys scripta elegans 4 dpl N2,4 dpl,1 year
+1148,Age,Inoculated resistant cultivar 6hr post inoculation,6hr post,14 days
+1146,Age,Inoculated susceptible cultivar 24hr post inoculation,24hr post,14 days
+1106,Age,Late flowering PHYTOCHROME C mutant sample Brachypodium distachyon,Late flowering,few months
+1090,Age,Library 3 MiSeq Cre normal PCR 15 cycles,15 cycles,21 days
+1052,Age,May value evaluating role t(16,May value evaluating role t(16,38 year
+1048,Age,Methylome WT Root 21 -Pi_r2,21 -Pi_r2,2 weeks + 21 d
+1045,Age,Methylome dcl3a Root 21 -Pi_r2,21 -Pi_r2,2 weeks + 21 d
+1029,Age,Microbiota infant TB15 1 month age,month age,1 month
+1006,Age,Model organism animal sample Dermacentor andersoni 2 days,2 days,adults
+948,Age,Nuclear_RNA extract Differentiated Myotubes 7 days cell culture Duchenne Muscular Dystrophy (DMD) donors Caucasian origin_Nuclear_DMD_MT-7_9813_21,7 days,3
+941,Age,Nuclear_RNA extract Differentiated Myotubes 7 days cell culture Healthy donors Caucasian origin_Nuclear_CTRL_MT-7_10006_11,7 days,3
+754,Age,Patient 2 Day 3,Day 3,21
+596,Age,RESA-Seq - WT 8h pA r3 B1,8h pA,8.0
+572,Age,RRGD Timepoint VI - recovery 15 min,15 min,23 days
+524,Age,Retina Aipl1 knockout mouse postnatal day 50,postnatal day,50 days
+447,Age,Single cell 4 month old LMPP 10,month old,4 months
+445,Age,Skeletal muscle 8-week old mouse,8-week old,8 weeks
+420,Age,T1 - horses intensive training stage (after slow canter phase) (March)_3,stage (after,3 year old
+283,Age,Vaginal microbiota associated preterm delivery,preterm delivery,35
+258,Age,Vaginal microbiota associated preterm delivery,preterm delivery,42
+282,Age,Vaginal microbiota associated preterm delivery,preterm delivery,30
+256,Age,Vaginal microbiota associated preterm delivery,preterm delivery,26
+257,Age,Vaginal microbiota associated preterm delivery,preterm delivery,19
+275,Age,Vaginal microbiota associated preterm delivery,preterm delivery,37
+284,Age,Vaginal microbiota associated preterm delivery,preterm delivery,35
+300,Age,Vaginal microbiota associated preterm delivery,preterm delivery,33
+247,Age,Vaginal microbiota associated preterm delivery,preterm delivery,33
+301,Age,Vaginal microbiota associated preterm delivery,preterm delivery,29
+246,Age,Vaginal microbiota associated preterm delivery,preterm delivery,35
+288,Age,Vaginal microbiota associated preterm delivery,preterm delivery,31
+244,Age,Vaginal microbiota associated preterm delivery,preterm delivery,29
+243,Age,Vaginal microbiota associated preterm delivery,preterm delivery,29
+242,Age,Vaginal microbiota associated preterm delivery,preterm delivery,27
+241,Age,Vaginal microbiota associated preterm delivery,preterm delivery,19
+245,Age,Vaginal microbiota associated preterm delivery,preterm delivery,20
+289,Age,Vaginal microbiota associated preterm delivery,preterm delivery,23
+285,Age,Vaginal microbiota associated preterm delivery,preterm delivery,32
+255,Age,Vaginal microbiota associated preterm delivery,preterm delivery,22
+254,Age,Vaginal microbiota associated preterm delivery,preterm delivery,27
+253,Age,Vaginal microbiota associated preterm delivery,preterm delivery,37
+252,Age,Vaginal microbiota associated preterm delivery,preterm delivery,27
+287,Age,Vaginal microbiota associated preterm delivery,preterm delivery,25
+250,Age,Vaginal microbiota associated preterm delivery,preterm delivery,33
+249,Age,Vaginal microbiota associated preterm delivery,preterm delivery,38
+248,Age,Vaginal microbiota associated preterm delivery,preterm delivery,28
+286,Age,Vaginal microbiota associated preterm delivery,preterm delivery,33
+251,Age,Vaginal microbiota associated preterm delivery,preterm delivery,24
+280,Age,Vaginal microbiota associated preterm delivery,preterm delivery,33
+291,Age,Vaginal microbiota associated preterm delivery,preterm delivery,17
+294,Age,Vaginal microbiota associated preterm delivery,preterm delivery,20
+278,Age,Vaginal microbiota associated preterm delivery,preterm delivery,21
+276,Age,Vaginal microbiota associated preterm delivery,preterm delivery,36
+265,Age,Vaginal microbiota associated preterm delivery,preterm delivery,24
+281,Age,Vaginal microbiota associated preterm delivery,preterm delivery,28
+298,Age,Vaginal microbiota associated preterm delivery,preterm delivery,22
+264,Age,Vaginal microbiota associated preterm delivery,preterm delivery,23
+267,Age,Vaginal microbiota associated preterm delivery,preterm delivery,33
+292,Age,Vaginal microbiota associated preterm delivery,preterm delivery,38
+270,Age,Vaginal microbiota associated preterm delivery,preterm delivery,26
+269,Age,Vaginal microbiota associated preterm delivery,preterm delivery,34
+279,Age,Vaginal microbiota associated preterm delivery,preterm delivery,35
+296,Age,Vaginal microbiota associated preterm delivery,preterm delivery,37
+297,Age,Vaginal microbiota associated preterm delivery,preterm delivery,27
+268,Age,Vaginal microbiota associated preterm delivery,preterm delivery,29
+259,Age,Vaginal microbiota associated preterm delivery,preterm delivery,24
+271,Age,Vaginal microbiota associated preterm delivery,preterm delivery,31
+293,Age,Vaginal microbiota associated preterm delivery,preterm delivery,37
+277,Age,Vaginal microbiota associated preterm delivery,preterm delivery,25
+263,Age,Vaginal microbiota associated preterm delivery,preterm delivery,25
+266,Age,Vaginal microbiota associated preterm delivery,preterm delivery,29
+273,Age,Vaginal microbiota associated preterm delivery,preterm delivery,22
+299,Age,Vaginal microbiota associated preterm delivery,preterm delivery,22
+295,Age,Vaginal microbiota associated preterm delivery,preterm delivery,22
+274,Age,Vaginal microbiota associated preterm delivery,preterm delivery,38
+260,Age,Vaginal microbiota associated preterm delivery,preterm delivery,42
+290,Age,Vaginal microbiota associated preterm delivery,preterm delivery,35
+272,Age,Vaginal microbiota associated preterm delivery,preterm delivery,24
+261,Age,Vaginal microbiota associated preterm delivery,preterm delivery,31
+262,Age,Vaginal microbiota associated preterm delivery,preterm delivery,21
+187,Age,Zeitgeber Time 00,Zeitgeber Time,3 weeks
+185,Age,Zeitgeber Time 18,Zeitgeber Time,5 weeks
+176,Age,bisulfite treated genomic DNA old sun exposed epidermis 3,old sun,83
+164,Age,cinerea B9 different inoculation time treatments,time treatments,1 year
+130,Age,five 5w old individuals (male),5w old,5 week
+12,Age,time point 2,time point,65.397
+2,Age,zebrafish normal developmental age 72hpf control_rep2,developmental age,72 hpf£¨hour post fertilization£©
+222,Data type,"Non-tumor DNA sample human male participant dbGaP study ""Whole Exome Sequencing Chronic Lymphocytic Leukemia""",Exome Sequencing Chronic,snv aggregate (.maf)
+39,Data type,"Tumor DNA sample human male participant dbGaP study ""Whole Exome Sequencing Chronic Lymphocytic Leukemia""",Exome Sequencing Chronic,snv aggregate (.maf)
+633,Platform,16S rDNA amplicon patient 11,16S rDNA amplicon,454
+629,Platform,16S rDNA amplicon patient 5,16S rDNA amplicon,454
+625,Platform,16S rRNA control root 3,16S rRNA,ion torrent
+623,Platform,16S rRNA mycorrhiza leaf 1,16S rRNA,ion torrent
+619,Platform,16S rRNA sequences fecal bacterial community Chicken,16S rRNA,454 gs flx
+363,Platform,Mouse fecal sample VLP-purification 454 Sequencing,454 Sequencing,454 flx titanium
+364,Platform,Mouse fecal sample VLP-purification 454 Sequencing,454 Sequencing,454 flx titanium
+278,Platform,Pyrosequencing 16S rRNA amplicons pig gastrointestinal mucosal scrapings,Pyrosequencing 16S rRNA amplicons,pyrosequncing
+280,Platform,Pyrosequencing 16S rRNA amplicons pig gastrointestinal mucosal scrapings,Pyrosequencing 16S rRNA amplicons,pyrosequncing
+279,Platform,Pyrosequencing 16S rRNA amplicons pig gastrointestinal mucosal scrapings,Pyrosequencing 16S rRNA amplicons,pyrosequncing
+120,Platform,SAG SCGC_AB-704-M06 partial SSU rRNA gene,SSU rRNA,sanger
+117,Platform,SAG SCGC_AB-704-N13 partial SSU rRNA gene,SSU rRNA,sanger
+114,Platform,SAG SCGC_AB-706-C03 partial SSU rRNA gene,SSU rRNA,sanger
+111,Platform,SAG SCGC_AB-706-E02 partial SSU rRNA gene,SSU rRNA,sanger
+108,Platform,SAG SCGC_AB-706-E13 partial SSU rRNA gene,SSU rRNA,sanger
+105,Platform,SAG SCGC_AB-706-E22 partial SSU rRNA gene,SSU rRNA,sanger
+102,Platform,SAG SCGC_AB-706-F21 partial SSU rRNA gene,SSU rRNA,sanger
+99,Platform,SAG SCGC_AB-706-K06 partial SSU rRNA gene,SSU rRNA,sanger
+96,Platform,SAG SCGC_AB-706-M02 partial SSU rRNA gene,SSU rRNA,sanger
