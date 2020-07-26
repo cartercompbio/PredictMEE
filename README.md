@@ -1,4 +1,4 @@
-# predictMEE -- **Predict**ing **M**issing **M**etadata with **E**ntity **E**xtraction
+# predictMEE - <ins>Predict</ins>**ing **<ins>M</ins>**issing Metadata with <ins>E</ins>ntity <ins>E</ins>xtraction
 
 ## Requirements
 
@@ -69,6 +69,6 @@ Certain notebooks require data and output from other notebooks. In order to run 
 7. valuatePrediction.ipynb
 
 ## Citation
-Klie, A. 2020 *et al* *Increasing metadata coverage of SRA BioSample entries using deep learning based Named Entity Recognition* In preparation.
+Klie, A. 2020. *et al.* *Increasing metadata coverage of SRA BioSample entries using deep learning based Named Entity Recognition* In preparation.
 
 
