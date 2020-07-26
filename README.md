@@ -1,4 +1,4 @@
-# predictMEE - <ins>Predict</ins>**ing **<ins>M</ins>**issing Metadata with <ins>E</ins>ntity <ins>E</ins>xtraction
+# predictMEE - <ins>Predict</ins>ing <ins>M</ins>issing Metadata with <ins>E</ins>ntity <ins>E</ins>xtraction
 
 ## Requirements
 
@@ -6,10 +6,10 @@
 The predictMEE model and analysis workflow requires a variety of packages to be installed prior to running the code. The easiest way to install all the necessary packages is by installing the [Anaconda3 of minconda3 python package manager](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html).
 
 ### Data
-The data download script to automate the download and preprocessing of the SRA attribute-value pairs is still a work in progress. For now you can find the data that was used [here](). 
+The data download script to automate the download and preprocessing of the SRA attribute-value pairs is still a work in progress. For now you can find the data that was used [here](https://drive.google.com/drive/u/0/folders/11-h1sSSKtuy0fbmMl24iLN0L68y0rt7-). 
 
 ### Word Embedding Model
-The downloadable word2vec model can be found [here](https://drive.google.com/open?id=0BzMCqpcgEJgiUWs0ZnU0NlFTam8)
+The downloadable word2vec model can be found [here](https://github.com/cambridgeltl/BioNLP-2016)
 
 ## Installation
 Substituting your GH `username` below, you can clone this repo to the curent directory with
