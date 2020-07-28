@@ -12,9 +12,9 @@ The data download script to automate the download and preprocessing of the SRA a
 The downloadable word2vec model can be found [here](https://github.com/cambridgeltl/BioNLP-2016)
 
 ## Installation
-Substituting your GH `username` below, you can clone this repo to the curent directory with
+You can clone this repo to the curent directory with
 ```bash
-git clone https://username@github.com/aklie/predictMEE.git
+git clone https://github.com/cartercompbio/PredictMEE.git
 ```
 
 ## Configuring environment
