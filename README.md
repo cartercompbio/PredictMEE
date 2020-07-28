@@ -3,7 +3,7 @@
 ## Requirements
 
 ### Conda or miniconda installation
-The predictMEE model and analysis workflow requires a variety of packages to be installed prior to running the code. The easiest way to install all the necessary packages is by installing the [Anaconda3 of minconda3 python package manager](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html).
+The predictMEE model and analysis workflow requires a variety of packages to be installed prior to running the code. The easiest way to install all the necessary packages is by installing the [Anaconda3 or minconda3 python package manager](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html).
 
 ### Data
 The data download script to automate the download and preprocessing of the SRA attribute-value pairs is still a work in progress. For now you can find the data that was used [here](https://drive.google.com/drive/u/0/folders/11-h1sSSKtuy0fbmMl24iLN0L68y0rt7-). 
@@ -18,7 +18,7 @@ git clone https://username@github.com/aklie/predictMEE.git
 ```
 
 ## Configuring environment
-Then, install the necessary requirement packages with the following commands
+Then, install the required packages with the following commands
 ```bash
 cd predictMEE/config
 conda env create -f deep_nlp_cpu.yml  # Load the envrionment
@@ -66,9 +66,9 @@ Certain notebooks require data and output from other notebooks. In order to run 
 4. trainModels.ipynb
 5. evaluateModel.ipynb
 6. predictMetadata.ipynb
-7. valuatePrediction.ipynb
+7. evaluatePrediction.ipynb
 
 ## Citation
-Klie, A. 2020. *et al.* *Increasing metadata coverage of SRA BioSample entries using deep learning based Named Entity Recognition* In preparation.
+Klie, A. *et al.* 2020. *Increasing metadata coverage of SRA BioSample entries using deep learning based Named Entity Recognition.* In preparation.
 
 
