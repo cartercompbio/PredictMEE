@@ -1,12 +1,111 @@
-,GroupName,attribute,similarity,value count,merged count,factor of increase
-80,Age,age,0.9999999999999998,363161,370206,1.0193991094858754
-33,Cell type,cell type,1.0,150652,660709,4.385663648673765
-54,Condition/Disease,disease,0.9999999999999999,36349,47714,1.3126633469971665
-83,Data type,molecular data type,0.9999999999999999,544515,544515,1.0
-45,Genotype,genotype,1.0,117332,154012,1.3126171888316913
-84,Platform,platform,1.0,3476,147827,42.52790563866513
-103,Protocol,protocol,1.0,5851,9028,1.5429841052811486
-65,Sex,sex,1.0,643290,807086,1.2546223320741812
-0,Species,SCIENTIFIC_NAME,1.0,2773124,3412251,1.2304718433074036
-12,Strain,strain,0.9999999999999999,598496,834505,1.3943368042560018
-60,Tissue,tissue,1.0,446429,963458,2.158143848181906
+,GroupName,I,attribute,similarity
+0,Species,0,SCIENTIFIC_NAME,1.0
+1,Species,1,Organism,0.9166528343295359
+2,Species,2,host scientific name,0.9108848329381353
+3,Species,3,organism,0.9030495091953489
+4,Species,4,host_scientific_name,0.8856682412240373
+5,Species,5,host,0.8835448906071701
+6,Species,6,nat-host,0.8593549613213959
+7,Species,7,specific host,0.8533665416469985
+8,Species,8,host organism,0.8506855513358813
+9,Species,9,host species,0.8309819729135277
+10,Species,10,specific_host,0.805496591295565
+11,Species,11,HostSpecies,0.8014171677308838
+12,Strain,0,strain,0.9999999999999999
+13,Strain,1,strain background,0.9321002383248099
+14,Strain,2,host_genotype,0.9310715788040004
+15,Strain,3,background strain,0.9265253332863371
+16,Strain,4,strain/background,0.9246877505201635
+17,Strain,5,genetic background,0.9122484944910315
+18,Strain,6,mouse strain,0.9060377723090429
+19,Strain,7,Mouse_Strain,0.898777886012783
+20,Strain,8,StrainOrLine,0.8936761050539233
+21,Strain,9,host strain,0.8912968011881811
+22,Strain,10,stain,0.8911623343165929
+23,Strain,11,host_strain,0.880548543739156
+24,Strain,12,strain or line,0.8803317066823251
+25,Strain,13,strain name,0.8788771366907769
+26,Strain,14,host infra-specific name,0.8700845773807784
+27,Strain,15,host genotype,0.8654657241240589
+28,Strain,16,background,0.8641153510386975
+29,Strain,17,host_breed,0.8485140610827687
+30,Strain,18,Strain,0.8364229563737846
+31,Strain,19,maternal strain,0.8347478294385527
+32,Strain,20,paternal strain,0.8124548202502497
+33,Cell type,0,cell type,1.0
+34,Cell type,1,cell_type,0.8969459288238855
+35,Cell type,2,source_name,0.8860552628667563
+36,Cell type,3,source cell type,0.8846252801264968
+37,Cell type,4,CellType,0.869493387064285
+38,Cell type,5,progenitor cell type,0.8655333140751186
+39,Cell type,6,cell types,0.8646846555071438
+40,Cell type,7,cell-type,0.8530686779076337
+41,Cell type,8,cell description,0.8485231954413147
+42,Cell type,9,CELL_TYPE,0.8449891131899495
+43,Cell type,10,biomaterial_type,0.8410085055231836
+44,Cell type,11,tissue/cell type,0.8273281452744912
+45,Genotype,0,genotype,1.0
+46,Genotype,1,genotype/variation,0.9400803692065124
+47,Genotype,2,Genotype,0.895105509783566
+48,Genotype,3,mutant,0.8821412384557038
+49,Genotype,4,mutation,0.8470873185586418
+50,Genotype,5,plant genotype,0.8244566964198038
+51,Genotype,6,genetic variation,0.8116293416406798
+52,Genotype,7,idh2.gene.mutation,0.8012859442928494
+53,Genotype,8,host genotype,0.8009238703194361
+54,Condition/Disease,0,disease,0.9999999999999999
+55,Condition/Disease,1,disease status,0.8329258858629859
+56,Condition/Disease,2,tumor type,0.8283363653961412
+57,Condition/Disease,3,health state,0.8276509698411408
+58,Condition/Disease,4,cancer type,0.8258007593870642
+59,Condition/Disease,5,cell description,0.8125524059880272
+60,Tissue,0,tissue,1.0
+61,Tissue,1,tissue_type,0.9128821756425842
+62,Tissue,2,organism part,0.8476636873265292
+63,Tissue,3,tissue-type,0.8268028143990751
+64,Tissue,4,source_name,0.8001966506494698
+65,Sex,0,sex,1.0
+66,Sex,1,host_sex,0.9971845720609147
+67,Sex,2,Sex,0.9959138393402536
+68,Sex,3,host ex,0.9952106885864552
+69,Sex,4,sex_infant_1,0.9950075420265119
+70,Sex,5,sex / reassigned sex,0.99478838779817
+71,Sex,6,Host_Gender,0.9946589869204463
+72,Sex,7,babygender_m_f,0.9939105583124485
+73,Sex,8,gender,0.9935823836385963
+74,Sex,9,;,0.9865397119498501
+75,Sex,10,breeding direction,0.9809855424580538
+76,Sex,11,Gender,0.939041635216259
+77,Sex,12,host sex,0.9304079696082551
+78,Sex,13,SEX,0.9002015293151202
+79,Sex,14,sex_def_prob,0.8653451786640395
+80,Age,0,age,0.9999999999999998
+81,Age,1,Age,0.8321725744773774
+83,Data type,0,molecular data type,0.9999999999999999
+84,Platform,0,platform,1.0
+85,Platform,1,Platform,0.9420407609967529
+86,Platform,2,instrument_model,0.9347951685569736
+87,Platform,3,Sequencing_method,0.9343760359832477
+88,Platform,4,sequencing method,0.9322530268975031
+89,Platform,5,INSTRUMENT_MODEL,0.9302995386633408
+90,Platform,6,SequencingTechnology,0.925860042890646
+91,Platform,7,sequencer,0.9159101151102684
+92,Platform,8,illumina_technology,0.9144131447182429
+93,Platform,9,labversion description,0.9139128026419104
+94,Platform,10,illumina_technlogy,0.9104343497531745
+95,Platform,11,Sequencer,0.909642317682664
+96,Platform,12,seq_meth,0.9031731580239188
+97,Platform,13,sequencing_platform,0.8920722617054068
+98,Platform,14,seq_methods,0.8914904761388943
+99,Platform,15,sequencing_machine,0.8896843265944717
+100,Platform,16,sequencing_method,0.8738605343250501
+101,Platform,17,runchemistry,0.8503072704267923
+102,Platform,18,seq_method,0.8019273392612335
+103,Protocol,0,protocol,1.0
+104,Protocol,1,technology,0.8872723868290179
+105,Protocol,2,extract_protocol,0.8595837807965276
+106,Protocol,3,experiment type,0.8582811556214014
+107,Protocol,4,assay,0.8498023010475486
+108,Protocol,5,protocol description,0.8439313978225021
+109,Protocol,6,application,0.8432262398891023
+110,Protocol,7,library_type,0.8000438219766022
