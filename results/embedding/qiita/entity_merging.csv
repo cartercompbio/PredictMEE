@@ -1,0 +1,31 @@
+,GroupName,I,attribute,similarity
+0,Species,0,scientific_name,0.9999999999999999
+1,Species,1,sample_scientific_name,0.9684952115658622
+2,Species,2,common_name_indiv,0.9517328966914695
+3,Species,3,scientif_name,0.942442281947539
+4,Species,4,investigation_type_renamed,0.9347810560028209
+5,Species,5,scentific_name,0.8697950143472225
+6,Sex,0,sex,0.9999999999999999
+7,Sex,1,mouse_sex,0.984399154979643
+8,Sex,2,donor1_sex,0.9757525446533546
+9,Sex,3,baby_sex,0.9389195672829928
+10,Sex,4,sex_def_prob,0.9011553074868638
+11,Sex,5,host_sex,0.8063527658966556
+12,Age,0,age,1.0
+13,Sample Type,0,sample_type,1.0
+14,Sample Type,1,env_material,0.8963247195826328
+15,Sample Type,2,sample_type_x,0.825165451191269
+16,Sample Type,3,sample_type_lab,0.811120494936837
+17,Sample Type,4,eanv_material,0.8084457089774105
+18,Platform,0,platform,1.0
+19,Platform,1,paltform,0.9999674551064041
+20,Platform,2,platforn,0.960275672317794
+21,Platform,3,platform_16s,0.9446931180460484
+22,Platform,4,instrument_model,0.9442812406553179
+23,Platform,5,platform_x,0.9255872881671996
+24,Platform,6,sequencing_platform,0.9094255576166578
+25,Platform,7,platform_y,0.8911548657411439
+26,Platform,8,instrument_model_16s,0.8887882812484974
+27,Platform,9,illumina_technology,0.8353012233178524
+28,Platform,10,instrument_model_y,0.8254015484131693
+29,Platform,11,library,0.8133220924696654

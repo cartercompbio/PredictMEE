@@ -1,6 +1,7 @@
 # Directories
-/doc/biorxiv
-/doc/database
+/doc/log
+/doc/err
+/old
 /data
 /models
 *.DS_Store

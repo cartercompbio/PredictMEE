@@ -1,11 +1,13 @@
 srs,attribute,value
-SRS712566,SCIENTIFIC_NAME,Drosophila melanogaster
-SRS1736082,genotype,Missing
-SRS1493301,age,adult
-ERS074829,strain,SC16
-ERS387829,sex,mixed sex
-SRS537259,molecular data type,Whole Exome (NGS)
-SRS2215620,cell type,"cell line, chronic myelogenous leukemia, untreated"
-DRS017404,disease,thymic carcinoma
-SRS749305,protocol,in situ Hi-C
-SRS442271,platform,Illumina HiSeq 2000
+SRS416990,strain,MG1655
+SRS2421654,tissue,fin clip
+DRS032322,SCIENTIFIC_NAME,rhizosphere metagenome
+SRS178895,molecular data type,SNV (.MAF)
+ERS1054068,TITLE,10317.000036877
+SRS2238992,sex,female
+SRS931604,cell type,Primary dermal fibroblasts
+SRS1489238,protocol,FACS-scRNA-Seq
+SRS1130809,age,missing
+ERS1857507,genotype,potABCD
+ERS482504,disease,AML
+SRS443705,platform,AB 5500 Genetic Analyzer
