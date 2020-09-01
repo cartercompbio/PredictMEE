@@ -1,6 +1,6 @@
 srs,attribute,value
-ERS848668,TITLE,Stool sample from China
-SRS379677,TITLE,MIMS Environmental/Metagenome sample from marine metagenome
-SRS1555258,TITLE,17978_WT_RNA-seq
-SRS1654684,TITLE,"Non-tumor RNA sample from Left Brodmann's Area 10 (Prefrontal Cortex) of a human female participant in the dbGaP study ""Single Cell Analysis Program - Transcriptome (SCAP-T) (UCSD)"""
-SRS730622,TITLE,moDC_4 hours CPG A
+SRS152984,TITLE,Anaerobic bioreactor bacterial 16S rRNA V2 amplicons
+SRS423336,TITLE,"DNA sample from a human female participant in the dbGaP study ""STAMPEED: Northern Finland Birth Cohort 1966 (NFBC1966)"""
+SRS2323494,TITLE,JSJ_Q3_U5
+SRS1207595,TITLE,"DNA sample from a human male participant in the dbGaP study ""University of Washington Center for Mendelian Genomics (UW-CMG)"""
+SRS489743,TITLE,"Tumor DNA sample from Primary Blood Derived Cancer - Bone Marrow of a human male participant in the dbGaP study ""TARGET: Acute Myeloid Leukemia (AML)"""

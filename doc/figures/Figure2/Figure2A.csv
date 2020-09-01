@@ -1,13 +1,13 @@
 srs,attribute,value
-SRS416990,strain,MG1655
-SRS2421654,tissue,fin clip
-DRS032322,SCIENTIFIC_NAME,rhizosphere metagenome
-SRS178895,molecular data type,SNV (.MAF)
-ERS1054068,TITLE,10317.000036877
-SRS2238992,sex,female
-SRS931604,cell type,Primary dermal fibroblasts
-SRS1489238,protocol,FACS-scRNA-Seq
-SRS1130809,age,missing
-ERS1857507,genotype,potABCD
-ERS482504,disease,AML
-SRS443705,platform,AB 5500 Genetic Analyzer
+SRS1857692,SCIENTIFIC_NAME,dust metagenome
+SRS1484090,TITLE,"Non-tumor DNA sample from BLOOD of a human male participant in the dbGaP study ""Inflammatory Bowel Disease Exome Sequencing Study"""
+ERS994090,sex,female
+ERS1166612,genotype,dcl 234 nrpd1 quadruple mutant
+SRS2474283,strain,C57BL/6NJ
+ERS443143,age,126.0
+SRS1887746,molecular data type,SNP/CNV Genotypes (NGS)
+SRS933919,disease,Undifferentiated pleomorphic sarcoma
+SRS1382232,tissue,leaf
+ERS985666,cell type,"CD4-positive, alpha-beta T cell"
+SRS992595,protocol,Native ChIP
+SRS442959,platform,Illumina HiSeq 2000

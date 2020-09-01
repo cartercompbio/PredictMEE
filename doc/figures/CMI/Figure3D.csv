@@ -1,0 +1,497 @@
+,GroupName,I,attribute,similarity
+0,Sex,0,sex,1.0
+1,Sex,1,sex_infant_1,0.999325632872574
+2,Sex,2,babygender_m_f,0.9947010019632591
+3,Sex,3,baby_sex,0.9923445412566679
+4,Sex,4,donor1_sex,0.9785563162510208
+5,Age,0,age,0.9999999999999999
+6,BMI,0,bmi,1.0
+7,BMI,1,latitude,0.9805357055305697
+8,BMI,2,niacin_eq_mg_ave,0.9736570031803805
+9,BMI,3,glucose_g_ave,0.9620783813519496
+10,BMI,4,sf36_physical_component_scale,0.9522866020414991
+11,BMI,5,longitude,0.9493443830070886
+12,BMI,6,v1_bmi,0.941340038950148
+13,BMI,7,animal_protein_g_ave,0.9364642415347505
+14,BMI,8,sf36_mental_component_scale,0.9363693309394239
+15,BMI,9,fasttime_v2,0.9353157443915874
+16,BMI,10,calprotectin,0.9317052922246022
+17,BMI,11,iron_g_ave,0.9290128977892854
+18,BMI,12,glycemic_index_glucose_ref_ave,0.9267488490370053
+19,BMI,13,niacin_vit_b3_mg_ave,0.9235446370993972
+20,BMI,14,host_age_days,0.9234186249060978
+21,BMI,15,glutamic_acid_g_ave,0.923063241078206
+22,BMI,16,total_protein_g_ave,0.9203037300785566
+23,BMI,17,sucrose_g_ave,0.9202481251142077
+24,BMI,18,fructose_g_ave,0.9198449246368825
+25,BMI,19,collection_day,0.9178278993640719
+26,BMI,20,sip_mean_t,0.9157558738689116
+27,BMI,21,base_percent_bf_ave,0.9150490225084442
+28,BMI,22,temp_c_average,0.9144938227676801
+29,BMI,23,oxoado,0.9107283199688935
+30,BMI,24,temp_c_max,0.9102041477252505
+31,BMI,25,mufa_oleic_acid_g_ave,0.9086425171836005
+32,BMI,26,bmi_corrected,0.9053944911493766
+33,BMI,27,basea_insulin,0.9044858818325253
+34,BMI,28,height,0.9043800543803638
+35,BMI,29,soluble_transferrin_receptor,0.9007622774504176
+36,BMI,30,map,0.8930947077997197
+37,BMI,31,perc_cal_from_cho_average,0.8893567823819967
+38,BMI,32,weight,0.8888604533966888
+39,BMI,33,nitrogen_g_ave,0.8866956048672209
+40,BMI,34,tot_sat_fatty_acids_g_ave,0.8857211557887193
+41,BMI,35,ampliconconcentration,0.8836231346153763
+42,BMI,36,vitk_phylloquinone_mcg_ave,0.881726279481691
+43,BMI,37,vitamin_e_iu_ave,0.8807530691159554
+44,BMI,38,elevation,0.8802061494791219
+45,BMI,39,ash_g_ave,0.8779052770499549
+46,BMI,40,latitude_deg,0.8771302091707268
+47,BMI,41,cd4_nadir,0.876403615739424
+48,BMI,42,tot_monounsat_fas_g_ave,0.8759031346440607
+49,BMI,43,adjusted_ferritin,0.8757099100261979
+50,BMI,44,soy_sauce,0.8744794510339317
+51,BMI,45,static_time,0.8743135399289993
+52,BMI,46,highest_glucose,0.8714503661048477
+53,BMI,47,perc_cal_from_protein_ave,0.871093935872421
+54,BMI,48,base_tg_ave,0.869508532926228
+55,BMI,49,perc_cal_from_pufa_ave,0.8674259785115139
+56,BMI,50,lowest_glucose,0.8647745989794933
+57,BMI,51,sfa_palmitic_acid_g_ave,0.8643393387789778
+58,BMI,52,fbg,0.86362414813467
+59,BMI,53,compliance,0.8636041919115229
+60,BMI,54,gammatocopherol_mg_ave,0.8626793751229577
+61,BMI,55,zinc_g_ave,0.8620471896401376
+62,BMI,56,vegetable_protein_g_ave,0.8614700019523706
+63,BMI,57,base_ldlc_ave,0.8597599004904511
+64,BMI,58,family_id,0.8570621955923231
+65,BMI,59,wt,0.8568151496970795
+66,BMI,60,observedotus,0.8560506094802479
+67,BMI,61,cholestsaturated_fa_index_ave,0.8558931941905895
+68,BMI,62,selenium__mcg__average,0.8555244944326853
+69,BMI,63,in_house_identifier,0.8551223073140815
+70,BMI,64,tcho,0.8549816368090046
+71,BMI,65,body_mass_index,0.8520727900020227
+72,BMI,66,base_tc_ave,0.8516652578592603
+73,BMI,67,samp_vol_we_dna_ext,0.8516053928526782
+74,BMI,68,weight_in_pounds,0.8486307454201403
+75,BMI,69,sampleid_paper_table_s1,0.8477134219588469
+76,BMI,70,dewpt_c_max,0.8449284638622305
+77,BMI,71,dewpt_c_min,0.8426433829639574
+78,BMI,72,acaroteneprovita_mcg_ave,0.8420535706413376
+79,BMI,73,waist,0.841519353502091
+80,BMI,74,oxoguo,0.8413828392065484
+81,BMI,75,age_v1,0.8410373740624831
+82,BMI,76,height_or_length,0.8404571864018794
+83,BMI,77,age_feces,0.8399241461581115
+84,BMI,78,salt,0.8396025286708333
+85,BMI,79,vitals_day0_height_cm,0.8386234487497041
+86,BMI,80,oxodg,0.8376489940576681
+87,BMI,81,ua,0.8373706491592607
+88,BMI,82,percent_body_fat,0.8373402932844408
+89,BMI,83,age,0.8373120304221525
+90,BMI,84,rdw,0.8367642952601249
+91,BMI,85,longitude_deg,0.8366911880312636
+92,BMI,86,pufa_linoleic_acid_g_ave,0.8360532284903203
+93,BMI,87,middle_upperarm_circumference,0.8351031679595375
+94,BMI,88,leucine_g_ave,0.8346288252475743
+95,BMI,89,pressure_inch_hg_ave,0.8339271100195904
+96,BMI,90,perc_cal_from_fat_ave,0.8335764638663576
+97,BMI,91,base_apo_ai_ave,0.8330717317527147
+98,BMI,92,intensity_7point7_percent,0.8319517679870688
+99,BMI,93,cd8_cd38_single_positive_cells,0.8310163768629547
+100,BMI,94,vite_totalphatocoph_mg_ave,0.8304987492929995
+101,BMI,95,body_fat,0.8299869127858767
+102,BMI,96,bcryptoxanthinprovita_mcg_ave,0.8295102828390337
+103,BMI,97,glycemic_load_bread_ref_ave,0.8294448739559994
+104,BMI,98,apache_score,0.8291976773599091
+105,BMI,99,vitals_day0_bmi,0.8287073682252385
+106,BMI,100,liking_13point7_percent,0.8286922496554935
+107,BMI,101,age_corrected,0.8282361805843315
+108,BMI,102,liking_7point7_percent,0.8264521715125682
+109,BMI,103,total_dietary_fiber_g_ave,0.8256124811383929
+110,BMI,104,liking_4point3_percent,0.8248319708603721
+111,BMI,105,starch_g_ave,0.8247682684531954
+112,BMI,106,intensity_0_percent,0.8246529859023578
+113,BMI,107,cholesterol_mg_ave,0.8241904434182133
+114,BMI,108,intensity_4point3_percent,0.8241149682454912
+115,BMI,109,available_carbohydrate_g_ave,0.8234913443142022
+116,BMI,110,pdff_average,0.8233938659391795
+117,BMI,111,liking_2point4_percent,0.8232377317111191
+118,BMI,112,creactive_protein_quant,0.8224945624744929
+119,BMI,113,temp_c_min,0.8219789637829024
+120,BMI,114,liking_0_percent,0.8218192384934278
+121,BMI,115,synthfolate_folica_mcg_ave,0.8215900351210286
+122,BMI,116,rbc,0.8212770894842892
+123,BMI,117,sbp,0.8212339801327865
+124,BMI,118,maltose_g_ave,0.8199205446268483
+125,BMI,119,month_of_life,0.8189251300089462
+126,BMI,120,mch,0.8186566213745455
+127,BMI,121,vitc_ascorbic_acid_mg_ave,0.8177728945223816
+128,BMI,122,cd4_percent,0.8164490020604129
+129,BMI,123,perc_bacterial_dna,0.8160781397397686
+130,BMI,124,ht,0.8150781347052473
+131,BMI,125,intensity_13point7_percent,0.8147002457351049
+132,BMI,126,nat_a_r_datocopherol_mg_ave,0.8142852159943911
+133,BMI,127,solar_radiation_w_m2_average,0.8142524043475169
+134,BMI,128,cd4_value,0.8137923722132303
+135,BMI,129,intensity_2point4_percent,0.8127552922332026
+136,BMI,130,icudays,0.8118774657663408
+137,BMI,131,adjusted_bis,0.8114881648582927
+138,BMI,132,mchc,0.8113747432392503
+139,BMI,133,hgb,0.810433365180919
+140,BMI,134,sleep_time,0.8103002469970813
+141,BMI,135,body_iron_stores,0.8083554514844217
+142,BMI,136,perc_cal_from_sfa_ave,0.8061632427284499
+143,BMI,137,v1_waistline,0.8061563752774301
+144,BMI,138,tot_polyunsat_fas_g_ave,0.8060791113131333
+145,BMI,139,cd4_count,0.8059087596947039
+146,BMI,140,base_hdlc_ave,0.8050507870416203
+147,BMI,141,proline_g_ave,0.8041991812739977
+148,BMI,142,duration_v2,0.8032838199246496
+149,BMI,143,base_glucose_ave,0.8027778145919121
+150,BMI,144,hip_circumference_cm,0.8025830378310435
+151,BMI,145,height_cm,0.8015888145124783
+152,BMI,146,cd4_cd38_single_positive_cells,0.8006420796258857
+153,BMI,147,ldl,0.8001978426662272
+154,Body site,0,body_site,0.9999999999999999
+155,Body site,1,host_body_site,0.9907813286754158
+156,Body site,2,host_body_habitat,0.9818909303228033
+157,Body site,3,body_habitat,0.9818451956275486
+158,Body site,4,host_body_product,0.9495469688627483
+159,Body site,5,body_product,0.9456565630121968
+160,Body site,6,body_habita,0.8664309094433635
+161,Antibiotic usage,0,antibiotics,0.9999999999999999
+162,Antibiotic usage,1,atherosclerosis,0.988987415484707
+163,Antibiotic usage,2,medication,0.9601041436844979
+164,Antibiotic usage,3,iron_deficiency_anemia,0.9522763397052076
+165,Antibiotic usage,4,skin_tags,0.9517321095610521
+166,Antibiotic usage,5,hair_loss,0.9513889981594448
+167,Antibiotic usage,6,appendicitis,0.9510934400030421
+168,Antibiotic usage,7,deviated_septum,0.9508673371484166
+169,Antibiotic usage,8,urinary_tract_infection_,0.9505525218730326
+170,Antibiotic usage,9,tennis_elbow,0.9504003274326353
+171,Antibiotic usage,10,chronic_sinusitis,0.9502746243935478
+172,Antibiotic usage,11,diverticulosis,0.9502746243935478
+173,Antibiotic usage,12,varicose_veins,0.9502741888870203
+174,Antibiotic usage,13,irritable_bowel_syndrome_,0.9502482144074988
+175,Antibiotic usage,14,hemorrhoids,0.9500515745582392
+176,Antibiotic usage,15,presbyopia,0.9495532430858028
+177,Antibiotic usage,16,dandruff,0.9495231551757474
+178,Antibiotic usage,17,floaters,0.9495146776086304
+179,Antibiotic usage,18,ovarian_cysts,0.9492428061786061
+180,Antibiotic usage,19,eczema,0.9492399259949751
+181,Antibiotic usage,20,allergic_contact_dermatitis,0.9492399259949751
+182,Antibiotic usage,21,sciatica,0.9488939856915167
+183,Antibiotic usage,22,colon_polyps,0.9487080336557585
+184,Antibiotic usage,23,temporomandibularjointdisorder,0.9487080336557585
+185,Antibiotic usage,24,non_melanoma_skin_cancer,0.9480335474077617
+186,Antibiotic usage,25,small_bowel_resection,0.9479970121159951
+187,Antibiotic usage,26,pouch,0.9479849279833551
+188,Antibiotic usage,27,change_biologic,0.9477590408137401
+189,Antibiotic usage,28,interval_antibiotics,0.9477590408137401
+190,Antibiotic usage,29,lipoma,0.947743821186152
+191,Antibiotic usage,30,keloids,0.9476566251550972
+192,Antibiotic usage,31,steroid_course,0.9474797816376699
+193,Antibiotic usage,32,high_triglycerides_,0.9474333017515285
+194,Antibiotic usage,33,plantar_fasciitis,0.9472481319635848
+195,Antibiotic usage,34,subsequent_surgery,0.9471970117702551
+196,Antibiotic usage,35,hyperopia,0.9470673416176643
+197,Antibiotic usage,36,other_peripheral_neuropathy,0.9469566218053834
+198,Antibiotic usage,37,gallstones,0.9469566218053834
+199,Antibiotic usage,38,hiatal_hernia,0.9469566218053834
+200,Antibiotic usage,39,use_5asa,0.9469311374987895
+201,Antibiotic usage,40,benign_prostatic_hypertrophy_,0.946244504417377
+202,Antibiotic usage,41,metabolic_syndrome,0.9462413977722562
+203,Antibiotic usage,42,lactose_intolerance,0.9460240795781932
+204,Antibiotic usage,43,hypothyroidism,0.9460240795781932
+205,Antibiotic usage,44,migraine_with_aura,0.9459882335665034
+206,Antibiotic usage,45,gastritis,0.9459592018159863
+207,Antibiotic usage,46,uterine_prolapse,0.9456063373817307
+208,Antibiotic usage,47,age_related_hearing_loss,0.9456063373817307
+209,Antibiotic usage,48,migraine_without_aura,0.9456063373817307
+210,Antibiotic usage,49,rheumatoid_arthritis,0.9453822287610202
+211,Antibiotic usage,50,thyroid_nodules,0.9453627715574353
+212,Antibiotic usage,51,does_escalation,0.9452793629398097
+213,Antibiotic usage,52,kidneystone,0.9451852897275775
+214,Antibiotic usage,53,constipation,0.9451852897275775
+215,Antibiotic usage,54,raynauds_phenomenon,0.9451558390377897
+216,Antibiotic usage,55,age_related_cataract,0.9451558390377897
+217,Antibiotic usage,56,gingivitis,0.9450595682594943
+218,Antibiotic usage,57,osteoarthritis,0.9447250937663376
+219,Antibiotic usage,58,female_infertility,0.9444715340726658
+220,Antibiotic usage,59,tinnitus,0.9444257458008208
+221,Antibiotic usage,60,t2dm,0.9443129162099753
+222,Antibiotic usage,61,psc,0.9443129162099753
+223,Antibiotic usage,62,colon_cancer,0.9441849357928105
+224,Antibiotic usage,63,rotator_cuff_tear,0.9441849357928105
+225,Antibiotic usage,64,nasal_polyps,0.944021089676039
+226,Antibiotic usage,65,cafe_au_lait_spots,0.9439452667276437
+227,Antibiotic usage,66,carpal_tunnel_syndrome,0.9439452667276437
+228,Antibiotic usage,67,diarrhea,0.9439368373830871
+229,Antibiotic usage,68,geographic_tongue,0.9438673929951356
+230,Antibiotic usage,69,von_willebrand_disease,0.9438673929951356
+231,Antibiotic usage,70,cluster_headaches,0.9435350746478588
+232,Antibiotic usage,71,chronic_tension_headaches,0.9435350746478588
+233,Antibiotic usage,72,male_infertility,0.9435208869831732
+234,Antibiotic usage,73,immune_modulator_add,0.9433457156764508
+235,Antibiotic usage,74,copd,0.9433457156764508
+236,Antibiotic usage,75,heredit_motorsensory_neuropath,0.9433213394250102
+237,Antibiotic usage,76,inguinal_hernia,0.9433213394250102
+238,Antibiotic usage,77,pilonidal_cyst,0.9433213394250102
+239,Antibiotic usage,78,current_integrin_inhibitor_use,0.9432945770248437
+240,Antibiotic usage,79,has_surgery,0.9432945770248437
+241,Antibiotic usage,80,bunions,0.9430730103089208
+242,Antibiotic usage,81,scoliosis,0.9430730103089208
+243,Antibiotic usage,82,infantjuvenilepresenilecatarac,0.9427922461937085
+244,Antibiotic usage,83,trigger_finger,0.9427922461937085
+245,Antibiotic usage,84,atrial_fibrillation,0.9427483811545381
+246,Antibiotic usage,85,astigmatism,0.9427075261189537
+247,Antibiotic usage,86,ulcerative_colitis,0.942481090597895
+248,Antibiotic usage,87,urethral_diverticulum,0.942481090597895
+249,Antibiotic usage,88,barretts_esophagus,0.942481090597895
+250,Antibiotic usage,89,essential_tremor,0.942481090597895
+251,Antibiotic usage,90,bells_palsy,0.942327177781333
+252,Antibiotic usage,91,hepatic_calculus,0.9422872954470715
+253,Antibiotic usage,92,muscular_dystrophy,0.9421951462506796
+254,Antibiotic usage,93,hyperhidrosis_,0.9421414775262554
+255,Antibiotic usage,94,non_hodgkin_lymphoma,0.9421414775262554
+256,Antibiotic usage,95,spinal_stenosis,0.9421414775262554
+257,Antibiotic usage,96,cleft_uvula,0.9420245296313825
+258,Antibiotic usage,97,chronic_bronchitis,0.9420245296313825
+259,Antibiotic usage,98,hashimotos_thyroiditis,0.9420245296313825
+260,Antibiotic usage,99,impacted_tooth,0.9419672940987898
+261,Antibiotic usage,100,stroke,0.9418667644270229
+262,Antibiotic usage,101,menieres_disease,0.9418176777072628
+263,Antibiotic usage,102,rectal_prolapse,0.9418176777072628
+264,Antibiotic usage,103,chondromalacia_patella,0.941775237068927
+265,Antibiotic usage,104,cardiac_arrhythmia,0.941775237068927
+266,Antibiotic usage,105,mitral_valve_prolapse,0.941775237068927
+267,Antibiotic usage,106,idiopathicthrombocytpurpura,0.9415768161073349
+268,Antibiotic usage,107,diabetes_mellitustype_2,0.9415768161073349
+269,Antibiotic usage,108,deep_vein_thrombosis,0.9413040524986687
+270,Antibiotic usage,109,synbiotics,0.9411412291588641
+271,Antibiotic usage,110,premature_ventricular_contract,0.9410013825149278
+272,Antibiotic usage,111,glaucoma,0.9410013825149278
+273,Antibiotic usage,112,dry_eye_syndrome,0.9410013825149278
+274,Antibiotic usage,113,hemochromatosis,0.9410013825149278
+275,Antibiotic usage,114,fibrocystic_breast_disease,0.9409697065934248
+276,Antibiotic usage,115,kawasaki_disease,0.940786788527252
+277,Antibiotic usage,116,trigeminal_neuralgia,0.9407029987485871
+278,Antibiotic usage,117,graves_disease,0.9406706954253765
+279,Antibiotic usage,118,growth_hormone_deficiency,0.9406706954253765
+280,Antibiotic usage,119,dermatographia,0.9406706954253765
+281,Antibiotic usage,120,polycystic_kidney_disease,0.9406706954253765
+282,Antibiotic usage,121,chronic_kidney_failure,0.940578826276765
+283,Antibiotic usage,122,restrictive_cardiomyopathy,0.940578826276765
+284,Antibiotic usage,123,spinal_muscular_atrophy,0.940578826276765
+285,Antibiotic usage,124,current_steroid_use,0.9405698867745843
+286,Antibiotic usage,125,gout,0.9404296768483605
+287,Antibiotic usage,126,polycystic_ovary_syndrome_,0.9404166919649559
+288,Antibiotic usage,127,congenital_clubfoot_,0.9404166919649559
+289,Antibiotic usage,128,peyronies_disease,0.9404166919649559
+290,Antibiotic usage,129,celiac_disease,0.9404166919649559
+291,Antibiotic usage,130,parkinsons_disease,0.9404166919649559
+292,Antibiotic usage,131,infantile_pyloric_stenosis,0.9404166919649559
+293,Antibiotic usage,132,peptic_ulcer_,0.9404166919649559
+294,Antibiotic usage,133,heredhemorrhagictelangiectasia,0.9404166919649559
+295,Antibiotic usage,134,rosacea,0.9403137795500903
+296,Antibiotic usage,135,otosclerosis,0.940218889915354
+297,Antibiotic usage,136,endometriosis,0.940218889915354
+298,Antibiotic usage,137,acute_kidney_failure,0.940218889915354
+299,Antibiotic usage,138,hypertensive_retinopathy,0.940218889915354
+300,Antibiotic usage,139,long_qt_syndrome,0.940218889915354
+301,Antibiotic usage,140,fibromyalgia,0.940218889915354
+302,Antibiotic usage,141,chronicobstructivepulm_disease,0.940218889915354
+303,Antibiotic usage,142,uterine_fibroids,0.940218889915354
+304,Antibiotic usage,143,scheuermanns_kyphosis,0.940218889915354
+305,Antibiotic usage,144,spina_bifida,0.940218889915354
+306,Antibiotic usage,145,thyroid_cancer,0.940218889915354
+307,Antibiotic usage,146,bundle_branch_block,0.940218889915354
+308,Antibiotic usage,147,endometrial_cancer,0.940218889915354
+309,Antibiotic usage,148,hidradenitis_suppurativa,0.939987593722261
+310,Antibiotic usage,149,chronicliverdisease_cirrhosis,0.939987593722261
+311,Antibiotic usage,150,syndactyly_,0.939987593722261
+312,Antibiotic usage,151,spermatocele,0.939987593722261
+313,Antibiotic usage,152,bartholins_cyst,0.939987593722261
+314,Antibiotic usage,153,other_cardiomyopathy_,0.939987593722261
+315,Antibiotic usage,154,allergic_rhinitis_,0.939987593722261
+316,Antibiotic usage,155,epilepsy,0.939987593722261
+317,Antibiotic usage,156,kidney_stones,0.939987593722261
+318,Antibiotic usage,157,stomach_cancer,0.939987593722261
+319,Antibiotic usage,158,bifid_tongue_,0.939987593722261
+320,Antibiotic usage,159,ehlers_danlos_syndrome,0.939987593722261
+321,Antibiotic usage,160,emphysema,0.939987593722261
+322,Antibiotic usage,161,restless_legs_syndrome,0.939987593722261
+323,Antibiotic usage,162,t1dm,0.9399110506920099
+324,Antibiotic usage,163,gastroesophagealreflux_disease,0.9397248624563862
+325,Antibiotic usage,164,hereditary_thrombophilia,0.9397248624563862
+326,Antibiotic usage,165,congenital_ocular_coloboma,0.9397248624563862
+327,Antibiotic usage,166,heart_block,0.9397248624563862
+328,Antibiotic usage,167,nonalcoholicfattyliver_disease,0.9397248624563862
+329,Antibiotic usage,168,pernicious_anemia_,0.9397248624563862
+330,Antibiotic usage,169,dilated_cardiomyopathy,0.9397248624563862
+331,Antibiotic usage,170,cleft_lip,0.9397248624563862
+332,Antibiotic usage,171,essential_thrombocythemia,0.9397248624563862
+333,Antibiotic usage,172,hypertrophic_cardiomyopathy,0.9397248624563862
+334,Antibiotic usage,173,lung_cancer,0.9397248624563862
+335,Antibiotic usage,174,renal_agenesis_,0.9397248624563862
+336,Antibiotic usage,175,primary_hyperparathyroidism,0.9397248624563862
+337,Antibiotic usage,176,hypospadias,0.9397248624563862
+338,Antibiotic usage,177,autoimmune_hemolytic_anemia,0.9397248624563862
+339,Antibiotic usage,178,central_serous_retinopathy,0.9397248624563862
+340,Antibiotic usage,179,breast_fibroadenoma,0.9397248624563862
+341,Antibiotic usage,180,prostate_cancer,0.9397248624563862
+342,Antibiotic usage,181,kidney_cancer,0.9397248624563862
+343,Antibiotic usage,182,dupuytrens_contracture,0.9395279407437328
+344,Antibiotic usage,183,huntingtons_disease,0.9394326463940653
+345,Antibiotic usage,184,melanoma,0.9394326463940653
+346,Antibiotic usage,185,single_transverse_palmarcrease,0.9394326463940653
+347,Antibiotic usage,186,wolff_parkinson_white_syndrome,0.9394326463940653
+348,Antibiotic usage,187,gilbert_syndrome,0.9394326463940653
+349,Antibiotic usage,188,porphyria,0.9394326463940653
+350,Antibiotic usage,189,brain_cancer,0.9394326463940653
+351,Antibiotic usage,190,traumatic_cataract,0.9394326463940653
+352,Antibiotic usage,191,multiple_sclerosis_,0.9394326463940653
+353,Antibiotic usage,192,diabetes_mellitustype_1,0.9394326463940653
+354,Antibiotic usage,193,ichthyosis_vulgaris,0.9394326463940653
+355,Antibiotic usage,194,cystic_fibrosis,0.9394326463940653
+356,Antibiotic usage,195,tongue_tie_,0.9394326463940653
+357,Antibiotic usage,196,chronic_recurrent_tonsillitis,0.9394326463940653
+358,Antibiotic usage,197,varicocele,0.9394326463940653
+359,Antibiotic usage,198,strabismus,0.9394326463940653
+360,Antibiotic usage,199,bladder_cancer,0.9394326463940653
+361,Antibiotic usage,200,leukemia,0.9394326463940653
+362,Antibiotic usage,201,narcolepsy,0.9394326463940653
+363,Antibiotic usage,202,retinal_detachment,0.9394326463940653
+364,Antibiotic usage,203,retinitis_pigmentosa,0.9394326463940653
+365,Antibiotic usage,204,hearinglosscongenitaldeafness,0.9394326463940653
+366,Antibiotic usage,205,hirschsprungs_disease,0.9394326463940653
+367,Antibiotic usage,206,polycythemia_vera,0.9394326463940653
+368,Antibiotic usage,207,alpha_1_antitrypsin_deficiency,0.9394326463940653
+369,Antibiotic usage,208,color_blindness,0.9394326463940653
+370,Antibiotic usage,209,acute_liver_failure,0.9394326463940653
+371,Antibiotic usage,210,keratoconus,0.9391127924961574
+372,Antibiotic usage,211,other_thrombophilia_,0.9391127924961574
+373,Antibiotic usage,212,marfan_syndrome,0.9391127924961574
+374,Antibiotic usage,213,amyotrophic_lateral_sclerosis_,0.9391127924961574
+375,Antibiotic usage,214,bone_spurs,0.9391127924961574
+376,Antibiotic usage,215,crohns_disease,0.9391127924961574
+377,Antibiotic usage,216,fissured_tongue,0.9391127924961574
+378,Antibiotic usage,217,achilles_tendinitis,0.9391127924961574
+379,Antibiotic usage,218,folate_deficiency_anemia,0.9391127924961574
+380,Antibiotic usage,219,congenital_heart_defect,0.9391127924961574
+381,Antibiotic usage,220,lichen_planus,0.9391127924961574
+382,Antibiotic usage,221,recurrent_sleep_paralysis,0.9391127924961574
+383,Antibiotic usage,222,g6pd_deficiency,0.9391127924961574
+384,Antibiotic usage,223,systemic_lupus_erythematosus,0.9391127924961574
+385,Antibiotic usage,224,angina,0.9391127924961574
+386,Antibiotic usage,225,ovarian_cancer,0.9391127924961574
+387,Antibiotic usage,226,sick_sinus_syndrome,0.9387670496422509
+388,Antibiotic usage,227,diabetic_retinopathy,0.9387670496422509
+389,Antibiotic usage,228,sickle_cell_anemia,0.9387670496422509
+390,Antibiotic usage,229,rectal_cancer,0.9387670496422509
+391,Antibiotic usage,230,osgood_schlatter_disease,0.9387670496422509
+392,Antibiotic usage,231,alopecia_areata,0.9387670496422509
+393,Antibiotic usage,232,sickle_cell_carrier,0.9387670496422509
+394,Antibiotic usage,233,postural_kyphosis,0.9387670496422509
+395,Antibiotic usage,234,pancreatic_cancer,0.9387670496422509
+396,Antibiotic usage,235,cervical_cancer,0.9387670496422509
+397,Antibiotic usage,236,cerebral_palsy,0.9387670496422509
+398,Antibiotic usage,237,cleft_palate,0.9387670496422509
+399,Antibiotic usage,238,polydactyly,0.9387670496422509
+400,Antibiotic usage,239,congenital_hydronephrosis,0.9387670496422509
+401,Antibiotic usage,240,frozen_shoulder,0.9387670496422509
+402,Antibiotic usage,241,interval_surgery,0.9386777851543558
+403,Antibiotic usage,242,colitis,0.9386002486045272
+404,Antibiotic usage,243,heart_atrial_fibrillation,0.9386002486045272
+405,Antibiotic usage,244,ustekinumab_use,0.9386002486045272
+406,Antibiotic usage,245,pulmonary_embolism,0.9383970736264964
+407,Antibiotic usage,246,neurofibromatosis,0.9383970736264964
+408,Antibiotic usage,247,developmentaldysplasia_of_hip,0.9383970736264964
+409,Antibiotic usage,248,other_aneurysm,0.9383970736264964
+410,Antibiotic usage,249,arnold_chiari_malformation,0.9383970736264964
+411,Antibiotic usage,250,age_related_macular_degen,0.9383970736264964
+412,Antibiotic usage,251,sjogrens_syndrome_,0.9383970736264964
+413,Antibiotic usage,252,congenital_nystagmus,0.9383970736264964
+414,Antibiotic usage,253,breast_cancer,0.9380044319219338
+415,Antibiotic usage,254,hemophilia,0.9380044319219338
+416,Antibiotic usage,255,aortic_aneurysm,0.9375906082205652
+417,Antibiotic usage,256,osteoporosis,0.9375906082205652
+418,Antibiotic usage,257,hereditary_spherocytosis,0.9375906082205652
+419,Antibiotic usage,258,flatfeet_,0.9375906082205652
+420,Antibiotic usage,259,cholecystitis,0.9372122610652027
+421,Antibiotic usage,260,fatty_liver,0.9372122610652027
+422,Antibiotic usage,261,probiotics,0.9372122610652027
+423,Antibiotic usage,262,psoriasis,0.9367049564215548
+424,Antibiotic usage,263,heart_myocardial_infarction,0.935750471272169
+425,Antibiotic usage,264,ards,0.935750471272169
+426,Antibiotic usage,265,ischemic_stroke,0.935750471272169
+427,Antibiotic usage,266,ankylosing_spondylitis,0.935750471272169
+428,Antibiotic usage,267,canker_sores_,0.9338558705688118
+429,Antibiotic usage,268,disease_complication,0.9322316644931715
+430,Antibiotic usage,269,type_subsequent_surgery,0.9317900809889997
+431,Antibiotic usage,270,asthma,0.9295992878004755
+432,Antibiotic usage,271,acne,0.9270103880099264
+433,Antibiotic usage,272,high_cholesterol_,0.9233470951765591
+434,Antibiotic usage,273,antibiotic_use,0.919996340981721
+435,Antibiotic usage,274,bv_results,0.9178281693807755
+436,Antibiotic usage,275,exp,0.9166806117057669
+437,Antibiotic usage,276,immune_modulator_use,0.9104500079920648
+438,Antibiotic usage,277,therapy_change,0.9091091761476802
+439,Antibiotic usage,278,ic_valve_removed,0.903054269845334
+440,Antibiotic usage,279,histologic_endoscopic_remission,0.9021769731222171
+441,Antibiotic usage,280,change_therapy,0.893460744838044
+442,Antibiotic usage,281,current_tnf_inhibitor,0.8906931528432444
+443,Antibiotic usage,282,myopia,0.860446347463348
+444,Antibiotic usage,283,myocardial_infarction,0.8486359189924984
+445,Antibiotic usage,284,congestive_heart_failure,0.8484488266505837
+446,Antibiotic usage,285,hypertension,0.808375572547055
+447,Pregnancy status,0,pregnant,0.9999999999999998
+448,Pregnancy status,1,csection,0.976155785691065
+449,Pregnancy status,2,breastmilk_formula_ensure,0.9745137312900178
+450,Pregnancy status,3,roommates_in_study,0.9575222493841754
+451,Pregnancy status,4,nail_biter,0.9526538337417501
+452,Pregnancy status,5,multivitamin,0.9505842808725775
+453,Pregnancy status,6,pets_other,0.9478838068767175
+454,Pregnancy status,7,mental_illness,0.9467540209334759
+455,Pregnancy status,8,appendix_removed,0.9465367747647232
+456,Pregnancy status,9,non_food_allergies_beestings,0.9443779403560656
+457,Pregnancy status,10,lactose,0.9437893555986222
+458,Pregnancy status,11,non_food_allergies_poison_ivyoak,0.9418578489586418
+459,Pregnancy status,12,mental_illness_type_anorexia_nervosa,0.9375597517429755
+460,Pregnancy status,13,tonsils_removed,0.9350375959917642
+461,Pregnancy status,14,cat,0.9339037868909096
+462,Pregnancy status,15,non_food_allergies_drug_eg_penicillin,0.9337279663776207
+463,Pregnancy status,16,allergic_to_unspecified,0.931862700541043
+464,Pregnancy status,17,mental_illness_type_substance_abuse,0.9283137148761446
+465,Pregnancy status,18,alcohol_types_white_wine,0.9272047473234555
+466,Pregnancy status,19,allergic_to_shellfish,0.9256224984515299
+467,Pregnancy status,20,mental_illness_type_depression,0.9254199088034168
+468,Pregnancy status,21,alcohol_types_spiritshard_alcohol,0.9252974467580852
+469,Pregnancy status,22,mental_illness_type_schizophrenia,0.9238588668424664
+470,Pregnancy status,23,acne_medication_otc,0.9237410240257817
+471,Pregnancy status,24,non_food_allergies_pet_dander,0.922798845652428
+472,Pregnancy status,25,livingwith,0.9212373443157588
+473,Pregnancy status,26,non_food_allergies_sun,0.9202659831083386
+474,Pregnancy status,27,alcohol_types_red_wine,0.9197280388190026
+475,Pregnancy status,28,allergic_to_other,0.9166091815713329
+476,Pregnancy status,29,softener,0.9147707583139127
+477,Pregnancy status,30,allergic_to_peanuts,0.9137734197066096
+478,Pregnancy status,31,alcohol_types_unspecified,0.913340995869411
+479,Pregnancy status,32,mental_illness_type_bulimia_nervosa,0.9121781354028144
+480,Pregnancy status,33,other_supplement_frequency,0.9119621148818653
+481,Pregnancy status,34,seasonal_allergies,0.911639205153028
+482,Pregnancy status,35,acne_medication,0.911099575171747
+483,Pregnancy status,36,dog,0.8995702974561722
+484,Pregnancy status,37,mental_illness_type_bipolar_disorder,0.8974894889646217
+485,Pregnancy status,38,alcohol_types_beercider,0.8881886673479129
+486,Pregnancy status,39,allergic_to_tree_nuts,0.8818407475647624
+487,Pregnancy status,40,alcohol_types_sour_beers,0.8781053095160741
+488,Pregnancy status,41,allergic_to_i_have_no_food_allergies_that_i_know_of,0.8588078473578524
+489,Pregnancy status,42,mental_illness_type_ptsd_posttraumatic_stress_disorder,0.8488314406021108
+490,Pregnancy status,43,specialized_diet_fodmap,0.8238158706889508
+491,Pregnancy status,44,specialized_diet_paleodiet_or_primal_diet,0.8095357624374155
+492,Pregnancy status,45,specialized_diet_halaal,0.8059682100358047
+493,Pregnancy status,46,specialized_diet_raw_food_diet,0.8004728678926915
+494,Diet type,0,diet,1.0
+495,Ethnicity,0,ethnicity,1.0
