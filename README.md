@@ -1,4 +1,4 @@
-# predictMEE - <ins>Predict</ins>ing <ins>M</ins>issing Metadata with <ins>E</ins>ntity <ins>E</ins>xtraction
+# PredictMEE - <ins>Predict</ins>ing <ins>M</ins>issing Metadata with <ins>E</ins>ntity <ins>E</ins>xtraction
 
 ## Requirements
 
