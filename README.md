@@ -21,8 +21,8 @@ git clone https://github.com/cartercompbio/PredictMEE.git
 Then, install the required packages with the following commands
 ```bash
 cd predictMEE/config
-conda env create -f deep_nlp_cpu.yml  # Load the envrionment
-conda activate deep_nlp_cpu  # Activate the environment
+conda env create -f PredictMEE_2020_08_24.yml  # Load the envrionment
+conda activate PredictMEE_new # Activate the environment
 ```
 
 If you are planning on recapitulatiing the full analysis, you will need to mimic the file structure shown below.
