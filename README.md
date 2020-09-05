@@ -3,7 +3,7 @@
 ## Requirements
 
 ### Conda or miniconda installation
-The predictMEE model and analysis workflow requires a variety of packages to be installed prior to running the code. The easiest way to install all the necessary packages is by installing the [Anaconda3 or minconda3 python package manager](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html).
+The PredictMEE model and analysis workflow requires a variety of packages to be installed prior to running the code. The easiest way to install all the necessary packages is by installing the [Anaconda3 or minconda3 python package manager](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html).
 
 ### Data
 The data download script to automate the download and preprocessing of the SRA attribute-value pairs is still a work in progress. For now you can find the data that was used [here](https://drive.google.com/drive/u/0/folders/11-h1sSSKtuy0fbmMl24iLN0L68y0rt7-). 
@@ -37,7 +37,7 @@ If you are planning on recapitulatiing the full analysis, you will need to mimic
 │   ├── predictMetadata.ipynb
 │   └── trainModels.ipynb
 ├── config
-│   └── deep_nlp_cpu.yml
+│   └── PredictMEE_2020_08_24.yml
 ├── data
 │   ├── allSRS_05_15_2018.pickle
 │   ├── BioSampleAttributes.pickle
