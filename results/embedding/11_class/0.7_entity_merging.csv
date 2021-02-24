@@ -1,0 +1,288 @@
+,GroupName,I,attribute,similarity
+0,Species,0,SCIENTIFIC_NAME,1.0
+1,Species,1,organism,0.9552428893883289
+2,Species,2,Organism,0.9432239268688803
+3,Species,3,host scientific name,0.9268460147493386
+4,Species,4,host,0.9160595886415183
+5,Species,5,host organism,0.9159907830067636
+6,Species,6,host_scientific_name,0.9047047248717354
+7,Species,7,specific host,0.9043756381174878
+8,Species,8,nat-host,0.8918120388948516
+9,Species,9,host species,0.861908416062441
+10,Species,10,HostSpecies,0.8110496926315033
+11,Species,11,specific_host,0.7902156802676628
+12,Species,12,lab_host,0.7705269382583698
+13,Species,13,ArrayExpress-Species,0.7592987857814537
+14,Species,14,Host common name,0.7416037015678482
+15,Species,15,component_organism,0.7185995617797234
+16,Strain,0,strain,1.0
+17,Strain,1,host_genotype,0.9290236612833467
+18,Strain,2,strain/background,0.9204440473924886
+19,Strain,3,background strain,0.9187222352606651
+20,Strain,4,strain background,0.9175982155494459
+21,Strain,5,genetic background,0.9084791045138412
+22,Strain,6,mouse strain,0.8945864203315573
+23,Strain,7,stain,0.8869235328856633
+24,Strain,8,host genotype,0.8845864812367507
+25,Strain,9,StrainOrLine,0.8784367742176078
+26,Strain,10,background,0.8775763848620131
+27,Strain,11,host strain,0.8700352737821982
+28,Strain,12,Mouse_Strain,0.8663194107640177
+29,Strain,13,strain name,0.8659412473206333
+30,Strain,14,strain/genotype,0.847012051404531
+31,Strain,15,host_strain,0.8294026304143519
+32,Strain,16,host_breed,0.8291016619088131
+33,Strain,17,host infra-specific name,0.8278584056764768
+34,Strain,18,maternal strain,0.8193831350345671
+35,Strain,19,paternal strain,0.8114017043481723
+36,Strain,20,ArrayExpress-StrainOrLine,0.7982664685593116
+37,Strain,21,strain or line,0.7968204745124884
+38,Strain,22,strain description,0.7857601688548621
+39,Strain,23,genotype,0.7767485034391575
+40,Strain,24,host_infra_specific_rank,0.7667756229671777
+41,Strain,25,mouse genotype,0.7576011471878609
+42,Strain,26,environmental history,0.7227180110641263
+43,Strain,27,Genotype,0.7103400779906077
+44,Cell type,0,cell type,1.0
+45,Cell type,1,cell_type,0.9334683620723019
+46,Cell type,2,source cell type,0.9080980278196968
+47,Cell type,3,cell types,0.8860681576947768
+48,Cell type,4,progenitor cell type,0.8828971402622888
+49,Cell type,5,source_name,0.8701472399329014
+50,Cell type,6,CellType,0.8591867056582925
+51,Cell type,7,tissue/cell type,0.8506223589436803
+52,Cell type,8,cell description,0.8462490578974513
+53,Cell type,9,cell-type,0.8377256027669345
+54,Cell type,10,biomaterial_type,0.8333268174110621
+55,Cell type,11,differentiation status,0.8092333455206083
+56,Cell type,12,cell line source,0.8078533558277107
+57,Cell type,13,DIFFERENTIATION_STAGE,0.806430923838897
+58,Cell type,14,CELL_TYPE,0.8029102381006138
+59,Cell type,15,sample type,0.800348656487607
+60,Cell type,16,cell population,0.7799368037975543
+61,Cell type,17,LINEAGE,0.771727244594108
+62,Cell type,18,differentiation state,0.7586104038489507
+63,Cell type,19,cell type or stage,0.7576457371105785
+64,Cell type,20,celltype,0.7469883307816663
+65,Cell type,21,sample_Type,0.7378255180489807
+66,Cell type,22,cell/tissue type,0.7334186267914332
+67,Cell type,23,cell line of origin,0.727823602942678
+68,Cell type,24,parental cell line,0.7207231949145476
+69,Cell type,25,cell source,0.7137571088089557
+70,Cell type,26,cell condition,0.7098569797582036
+71,Cell type,27,cell line,0.7090527692406499
+72,Cell type,28,cell state,0.7081713101417905
+73,Cell type,29,tissue source,0.704830053126723
+74,Cell type,30,cell subset,0.7003724883028485
+75,Genotype,0,genotype,1.0
+76,Genotype,1,genotype/variation,0.9568117776291793
+77,Genotype,2,mutant,0.8891350524388666
+78,Genotype,3,mutation,0.8502253475274341
+79,Genotype,4,plant genotype,0.8491903591376944
+80,Genotype,5,idh2.gene.mutation,0.8235387776188312
+81,Genotype,6,aire locus,0.8165836479877412
+82,Genotype,7,macrophage samhd1,0.8033585403206673
+83,Genotype,8,paternal genotype,0.8012328789152251
+84,Genotype,9,strain description,0.7998426426657521
+85,Genotype,10,Genotype,0.7993290931779314
+86,Genotype,11,dnmt3a mutation,0.7932320870553872
+87,Genotype,12,strain/genotype,0.7873073221981599
+88,Genotype,13,idh mutation,0.7832812671011651
+89,Genotype,14,myd88 genotype,0.7774348470221395
+90,Genotype,15,cic.gene.mutation,0.7773767962982738
+91,Genotype,16,flt3-itd,0.7773595781540621
+92,Genotype,17,strain,0.7767485034391575
+93,Genotype,18,host genotype,0.7711102338087048
+94,Genotype,19,spry status,0.7594859424482716
+95,Genotype,20,genetic variation,0.7528623619760709
+96,Genotype,21,line,0.7478625656841221
+97,Genotype,22,genetic background,0.7469051133968861
+98,Genotype,23,host_genotype,0.7433136619323777
+99,Genotype,24,phenotype,0.7418102743011696
+100,Genotype,25,overexpression,0.7393941414976856
+101,Genotype,26,background,0.7305024695222806
+102,Genotype,27,strain name,0.7245268370093846
+103,Genotype,28,StrainOrLine,0.7239766944978798
+104,Genotype,29,host_infra_specific_rank,0.7203219994900233
+105,Genotype,30,mouse genotype,0.7157428897257501
+106,Genotype,31,housing condition,0.7142532143864888
+107,Genotype,32,ArrayExpress-Genotype,0.7127488519631738
+108,Genotype,33,inventory sample name,0.707664024793033
+109,Genotype,34,genetic modification,0.702996526375418
+110,Condition/Disease,0,disease,1.0
+111,Condition/Disease,1,health state,0.8495916547675635
+112,Condition/Disease,2,tumor type,0.8135589456900301
+113,Condition/Disease,3,disease status,0.8058280657821747
+114,Condition/Disease,4,DiseaseState,0.7896947440232515
+115,Condition/Disease,5,tumor,0.7803308129839102
+116,Condition/Disease,6,cell description,0.7770576524169539
+117,Condition/Disease,7,clinical history,0.7580997947648219
+118,Condition/Disease,8,diagnosis,0.7423133074794377
+119,Condition/Disease,9,cancer type,0.7380655131886503
+120,Condition/Disease,10,Tumor_Type,0.7353832148740264
+121,Condition/Disease,11,tissue type,0.7205513556668875
+122,Condition/Disease,12,tissue of origin,0.7168484871095113
+123,Condition/Disease,13,cell karyotype,0.7145016721646286
+124,Condition/Disease,14,subject status,0.7050253880563445
+125,Condition/Disease,15,histology,0.7029139721010115
+126,Tissue,0,tissue,1.0
+127,Tissue,1,tissue_type,0.9461324739182079
+128,Tissue,2,organism part,0.8682138722324115
+129,Tissue,3,tissue-type,0.8578184775832184
+130,Tissue,4,tissue source,0.7929509852121382
+131,Tissue,5,source_name,0.7927680438567419
+132,Tissue,6,body_sites,0.7552630445623004
+133,Tissue,7,tissue/cell type,0.7457531772979447
+134,Tissue,8,plant body site,0.7243865412549974
+135,Tissue,9,ArrayExpress-OrganismPart,0.7056110889447489
+136,Sex,0,sex,0.9999999999999998
+137,Sex,1,host_sex,0.9973882184210178
+138,Sex,2,sex / reassigned sex,0.9970052059494506
+139,Sex,3,host ex,0.9965630101638543
+140,Sex,4,sex_infant_1,0.9964986567089386
+141,Sex,5,gender,0.9964731716140132
+142,Sex,6,babygender_m_f,0.9959914943639177
+143,Sex,7,Host_Gender,0.9948627230652819
+144,Sex,8,Sex,0.9924735752231617
+145,Sex,9,sex_infant_2,0.9862440154080433
+146,Sex,10,breeding direction,0.986244015408043
+147,Sex,11,;,0.9844665503625675
+148,Sex,12,Gender,0.9417029590151013
+149,Sex,13,host sex,0.9235797941666652
+150,Sex,14,SEX,0.9173179580625537
+151,Sex,15,sex_def_prob,0.8304731335708023
+152,Sex,16,subject gender,0.7795064424035139
+153,Sex,17,patient gender,0.7734063665420084
+154,Sex,18,host_gender,0.7648859221061135
+155,Sex,19,Sexe,0.758616080264234
+156,Sex,20,genotyped sex,0.7582719437265194
+157,Sex,21,HostSex,0.7560575001795662
+158,Sex,22,DONOR_SEX,0.7478532998654639
+159,Age,0,age,1.0
+160,Age,1,Age,0.8716179603281196
+161,Age,2,AGE,0.7936220821789658
+162,Data type,0,molecular data type,1.0
+163,Data type,1,Sample Description,0.838182348453726
+164,Data type,2,subsrc_note,0.7616901945067351
+165,Data type,3,library strategy,0.7479648622494037
+166,Data type,4,seq_meth,0.7383625828777094
+167,Data type,5,seq_methods,0.7327492140994841
+168,Data type,6,sequencing method,0.7300212573981455
+169,Data type,7,Seqence_Type,0.7246199578087121
+170,Data type,8,data type,0.7129082625612321
+171,Data type,9,sequencing_meth,0.712169929449965
+172,Data type,10,extract_protocol,0.7107579589682924
+173,Data type,11,DESCRIPTION,0.7068052448192027
+174,Data type,12,technique,0.7034917362607264
+175,Platform,0,platform,1.0
+176,Platform,1,Platform,0.9387929351039751
+177,Platform,2,INSTRUMENT_MODEL,0.929880362713661
+178,Platform,3,Sequencing_method,0.927518318716288
+179,Platform,4,SequencingTechnology,0.9199818957637734
+180,Platform,5,sequencer,0.9167371908979773
+181,Platform,6,instrument_model,0.916661493280885
+182,Platform,7,labversion description,0.9160526105138546
+183,Platform,8,illumina_technology,0.9141481816529937
+184,Platform,9,illumina_technlogy,0.9103180394948577
+185,Platform,10,sequencing method,0.9081256386212705
+186,Platform,11,Sequencer,0.9046036314745456
+187,Platform,12,seq_meth,0.8873264340424668
+188,Platform,13,seq_methods,0.8762224669189366
+189,Platform,14,sequencing_machine,0.8655911834598037
+190,Platform,15,sequencing_platform,0.8632125577298049
+191,Platform,16,sequencing_method,0.8578340238246587
+192,Platform,17,runchemistry,0.8539197338853233
+193,Platform,18,seq_method,0.8066181040781314
+194,Platform,19,Sequencing method,0.7641618128189014
+195,Platform,20,libraryprep,0.7432719570072477
+196,Protocol,0,protocol,0.9999999999999999
+197,Protocol,1,technology,0.8624264167478036
+198,Protocol,2,assay,0.8481474001518582
+199,Protocol,3,protocol description,0.8443547489690271
+200,Protocol,4,extract_protocol,0.8282914584482274
+201,Protocol,5,library type,0.8281395493356539
+202,Protocol,6,experiment type,0.8238039711110222
+203,Protocol,7,application,0.8104893533816779
+204,Protocol,8,library_type,0.8051914699016316
+205,Protocol,9,sample treatment,0.7997241138954249
+206,Protocol,10,extract protocol,0.7992597914381496
+207,Protocol,11,experimental design,0.7947556536413685
+208,Protocol,12,rna_extraction_protocol,0.7915125904531101
+209,Protocol,13,sample_title,0.7912484478735291
+210,Protocol,14,library selection,0.7901129761971037
+211,Protocol,15,sample_name,0.7886485800019055
+212,Protocol,16,library preparation,0.7845988716613335
+213,Protocol,17,TITLE,0.7827120917993692
+214,Protocol,18,cell class,0.7764700679808568
+215,Protocol,19,transgene,0.7739004475461221
+216,Protocol,20,DESCRIPTION,0.772714163675473
+217,Protocol,21,pcr primers,0.7726632989721801
+218,Protocol,22,target loci,0.7698157771767119
+219,Protocol,23,memberName,0.7653027564240337
+220,Protocol,24,sample description,0.7651621690110715
+221,Protocol,25,sorting phenotype,0.7630221903973422
+222,Protocol,26,secondary description,0.7624248728367412
+223,Protocol,27,index,0.7616960231752498
+224,Protocol,28,data type,0.7607935871901104
+225,Protocol,29,reporter,0.7595085620561037
+226,Protocol,30,matching input,0.7591685712118593
+227,Protocol,31,litternumber_id,0.7588913446065498
+228,Protocol,32,fraction,0.7575894662332306
+229,Protocol,33,SUBMITTER_ID,0.754964496759957
+230,Protocol,34,ip antibody,0.7546741897258891
+231,Protocol,35,injected with,0.7510826384584143
+232,Protocol,36,epitope tag,0.74918133065032
+233,Protocol,37,construct,0.7480759321297887
+234,Protocol,38,Title,0.7441191817376847
+235,Protocol,39,info,0.7432859011533479
+236,Protocol,40,transfected with,0.7411342715847307
+237,Protocol,41,marker,0.7408257426083561
+238,Protocol,42,library strategy,0.740586207056273
+239,Protocol,43,sample_identifier,0.7405317857097974
+240,Protocol,44,source_material_id,0.7397294011680112
+241,Protocol,45,pool_components,0.7394845897375075
+242,Protocol,46,Name,0.73868731167202
+243,Protocol,47,technique,0.7377343350055366
+244,Protocol,48,mice_group,0.737478974069021
+245,Protocol,49,control description,0.7365423717176368
+246,Protocol,50,scrna-seq method,0.7365314696407528
+247,Protocol,51,molecule type,0.7363759930841295
+248,Protocol,52,sample_description,0.7340335090554706
+249,Protocol,53,experimental condition,0.7339398015177603
+250,Protocol,54,strategy,0.7295697144205268
+251,Protocol,55,tag,0.7283497884868262
+252,Protocol,56,treated with,0.7281087483964261
+253,Protocol,57,exposed to,0.7269413318771408
+254,Protocol,58,spike-in,0.7267225258252028
+255,Protocol,59,grna,0.7257138853799402
+256,Protocol,60,url,0.7243481245413825
+257,Protocol,61,chip-antibody,0.7242102839499952
+258,Protocol,62,experiment_id,0.7225746815762156
+259,Protocol,63,experiment,0.7225545809247951
+260,Protocol,64,individual_ID,0.7221055225648201
+261,Protocol,65,RNAi treatment,0.7175434341603767
+262,Protocol,66,analysis,0.7173979083453466
+263,Protocol,67,antibody targetdescription,0.7170481073267205
+264,Protocol,68,cell treatment,0.716290505445278
+265,Protocol,69,breeding cage,0.7155144634386783
+266,Protocol,70,SampleName,0.7152814531519469
+267,Protocol,71,tagged protein,0.7152628794701318
+268,Protocol,72,rna injected,0.7143864340830578
+269,Protocol,73,SampleSource,0.711183997042027
+270,Protocol,74,exogenous bacteria,0.7105739229108302
+271,Protocol,75,genes analysed,0.710533184753004
+272,Protocol,76,sequencing protocol,0.7103737253143784
+273,Protocol,77,culture condition,0.7099993098811129
+274,Protocol,78,molecule subtype,0.7078833290291954
+275,Protocol,79,conditions,0.706550100996029
+276,Protocol,80,treatment,0.7061134355283103
+277,Protocol,81,antibody name,0.7060119993788588
+278,Protocol,82,cell phenotype,0.7050652434502482
+279,Protocol,83,cell_catalog,0.7041946341203595
+280,Protocol,84,labversion,0.7035170021017852
+281,Protocol,85,biospecimen repository sample id,0.7034518977756786
+282,Protocol,86,treatment protocol,0.7025380168824037
+283,Protocol,87,rip antibody,0.7022679262736339
+284,Protocol,88,overexpression,0.7009923293031243
+285,Protocol,89,Genetic_stock_Designation(varname),0.7008374455479819
+286,Protocol,90,transduced gene,0.700188405529124

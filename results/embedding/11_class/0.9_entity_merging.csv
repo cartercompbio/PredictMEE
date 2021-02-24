@@ -1,0 +1,53 @@
+,GroupName,I,attribute,similarity
+0,Species,0,SCIENTIFIC_NAME,1.0
+1,Species,1,organism,0.9552428893883289
+2,Species,2,Organism,0.9432239268688803
+3,Species,3,host scientific name,0.9268460147493386
+4,Species,4,host,0.9160595886415183
+5,Species,5,host organism,0.9159907830067636
+6,Species,6,host_scientific_name,0.9047047248717354
+7,Species,7,specific host,0.9043756381174878
+8,Strain,0,strain,1.0
+9,Strain,1,host_genotype,0.9290236612833467
+10,Strain,2,strain/background,0.9204440473924886
+11,Strain,3,background strain,0.9187222352606651
+12,Strain,4,strain background,0.9175982155494459
+13,Strain,5,genetic background,0.9084791045138412
+14,Cell type,0,cell type,1.0
+15,Cell type,1,cell_type,0.9334683620723019
+16,Cell type,2,source cell type,0.9080980278196968
+17,Genotype,0,genotype,1.0
+18,Genotype,1,genotype/variation,0.9568117776291793
+19,Condition/Disease,0,disease,1.0
+20,Tissue,0,tissue,1.0
+21,Tissue,1,tissue_type,0.9461324739182079
+22,Sex,0,sex,0.9999999999999998
+23,Sex,1,host_sex,0.9973882184210178
+24,Sex,2,sex / reassigned sex,0.9970052059494506
+25,Sex,3,host ex,0.9965630101638543
+26,Sex,4,sex_infant_1,0.9964986567089386
+27,Sex,5,gender,0.9964731716140132
+28,Sex,6,babygender_m_f,0.9959914943639177
+29,Sex,7,Host_Gender,0.9948627230652819
+30,Sex,8,Sex,0.9924735752231617
+31,Sex,9,sex_infant_2,0.9862440154080433
+32,Sex,10,breeding direction,0.986244015408043
+33,Sex,11,;,0.9844665503625675
+34,Sex,12,Gender,0.9417029590151013
+35,Sex,13,host sex,0.9235797941666652
+36,Sex,14,SEX,0.9173179580625537
+37,Age,0,age,1.0
+40,Data type,0,molecular data type,1.0
+41,Platform,0,platform,1.0
+42,Platform,1,Platform,0.9387929351039751
+43,Platform,2,INSTRUMENT_MODEL,0.929880362713661
+44,Platform,3,Sequencing_method,0.927518318716288
+45,Platform,4,SequencingTechnology,0.9199818957637734
+46,Platform,5,sequencer,0.9167371908979773
+47,Platform,6,instrument_model,0.916661493280885
+48,Platform,7,labversion description,0.9160526105138546
+49,Platform,8,illumina_technology,0.9141481816529937
+50,Platform,9,illumina_technlogy,0.9103180394948577
+51,Platform,10,sequencing method,0.9081256386212705
+52,Platform,11,Sequencer,0.9046036314745456
+53,Protocol,0,protocol,0.9999999999999999

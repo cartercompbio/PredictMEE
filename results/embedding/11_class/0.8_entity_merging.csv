@@ -1,0 +1,106 @@
+,GroupName,I,attribute,similarity
+0,Species,0,SCIENTIFIC_NAME,0.9999999999999998
+1,Species,1,organism,0.9072535058809938
+2,Species,2,host scientific name,0.8798779586335229
+3,Species,3,Organism,0.8745502150168313
+4,Species,4,host,0.8513241652898197
+5,Species,5,specific host,0.8184191260883765
+6,Species,6,host_scientific_name,0.8176358433189507
+7,Species,7,nat-host,0.8171429516320329
+8,Species,8,host species,0.8125818252635743
+9,Strain,0,strain,1.0
+10,Strain,1,strain name,0.8957334939003224
+11,Strain,2,host_genotype,0.8741097158036133
+12,Strain,3,strain background,0.8735647004380038
+13,Strain,4,StrainOrLine,0.8692403634505048
+14,Strain,5,genetic background,0.8678937342620947
+15,Strain,6,background strain,0.8657657242649952
+16,Strain,7,strain or line,0.8500864485087762
+17,Strain,8,strain/background,0.8498339969997329
+18,Strain,9,host genotype,0.8299586672158283
+19,Strain,10,background,0.8268616100126281
+20,Strain,11,Mouse_Strain,0.8265076569639147
+21,Strain,12,host strain,0.8251083299026587
+22,Strain,13,mouse strain,0.8225018859534606
+23,Strain,14,stain,0.8136491672519042
+24,Strain,15,ArrayExpress-StrainOrLine,0.8002511359300297
+25,Cell type,0,cell type,0.9999999999999998
+26,Cell type,1,cell_type,0.923114676969084
+27,Cell type,2,source cell type,0.8928996493843128
+28,Cell type,3,cell types,0.885395647927614
+29,Cell type,4,progenitor cell type,0.8761935981324868
+30,Cell type,5,cell-type,0.8594270988546655
+31,Cell type,6,CELL_TYPE,0.8545058518747565
+32,Cell type,7,source_name,0.8512022301319905
+33,Cell type,8,CellType,0.8490996882747454
+34,Cell type,9,cell type or stage,0.848064563274007
+35,Cell type,10,tissue/cell type,0.835334213393699
+36,Cell type,11,cell description,0.8311388627369996
+37,Cell type,12,biomaterial_type,0.8100808530885661
+38,Cell type,13,differentiation status,0.8090509909678106
+39,Cell type,14,LINEAGE,0.80337789568995
+40,Genotype,0,genotype,1.0
+41,Genotype,1,genotype/variation,0.9479413167807047
+42,Genotype,2,mutant,0.8551105326576977
+43,Genotype,3,mutation,0.8456482103780393
+44,Genotype,4,Genotype,0.8355904009087043
+45,Genotype,5,idh2.gene.mutation,0.8322984540784866
+46,Genotype,6,idh mutation,0.8184092043556053
+47,Genotype,7,paternal genotype,0.8155478173398398
+48,Genotype,8,dnmt3a mutation,0.8151820477392354
+49,Genotype,9,plant genotype,0.8053062714325877
+50,Condition/Disease,0,disease,1.0
+51,Condition/Disease,1,DiseaseState,0.870701488353493
+52,Condition/Disease,2,health state,0.8363527028482591
+53,Condition/Disease,3,tumor type,0.8215753209790583
+54,Condition/Disease,4,cancer type,0.8181975877909694
+55,Condition/Disease,5,disease status,0.8009224152058927
+56,Condition/Disease,6,tumor,0.8008093042839908
+57,Tissue,0,tissue,1.0
+58,Tissue,1,tissue_type,0.9651637690361045
+59,Tissue,2,organism part,0.8625083543837747
+60,Tissue,3,tissue-type,0.8059945729702643
+61,Sex,0,sex,0.9999999999999998
+62,Sex,1,gender,0.9941414540659098
+63,Sex,2,Host_Gender,0.9934620819226327
+64,Sex,3,host_sex,0.9931468593551774
+65,Sex,4,host ex,0.9928677341436842
+66,Sex,5,Sex,0.9926247890324216
+67,Sex,6,babygender_m_f,0.9925248495085572
+68,Sex,7,sex / reassigned sex,0.991239868903939
+69,Sex,8,sex_infant_1,0.9901439714882527
+70,Sex,9,;,0.9866520508811223
+71,Sex,10,sex_infant_2,0.972510768790871
+72,Sex,11,breeding direction,0.9725107687908706
+73,Sex,12,Gender,0.9368226052453041
+74,Sex,13,host sex,0.9096356853471053
+75,Sex,14,sex_def_prob,0.896344355234468
+76,Sex,15,SEX,0.8839110557523194
+77,Age,0,age,0.9999999999999998
+78,Age,1,Age,0.8253924198850754
+80,Data type,0,molecular data type,1.0
+81,Platform,0,platform,0.9999999999999998
+82,Platform,1,Platform,0.9357305493840473
+83,Platform,2,Sequencing_method,0.9339563385815386
+84,Platform,3,sequencing method,0.9324161532173226
+85,Platform,4,INSTRUMENT_MODEL,0.9259030312717552
+86,Platform,5,SequencingTechnology,0.9232030008258768
+87,Platform,6,sequencer,0.9124695336766433
+88,Platform,7,instrument_model,0.9117251793788789
+89,Platform,8,illumina_technology,0.9108720008946654
+90,Platform,9,Sequencer,0.910076188702972
+91,Platform,10,labversion description,0.9096910167123088
+92,Platform,11,sequencing_platform,0.907507418803775
+93,Platform,12,illumina_technlogy,0.9064249714499184
+94,Platform,13,seq_meth,0.9014038406585451
+95,Platform,14,seq_methods,0.9009906022130046
+96,Platform,15,sequencing_machine,0.8879684109098592
+97,Platform,16,sequencing_method,0.8618538096917367
+98,Platform,17,runchemistry,0.8477875473177184
+99,Protocol,0,protocol,1.0
+100,Protocol,1,technology,0.8800510026968662
+101,Protocol,2,experiment type,0.8669933136379389
+102,Protocol,3,extract_protocol,0.8478729257713308
+103,Protocol,4,protocol description,0.8449368924066376
+104,Protocol,5,assay,0.8421954772610807
+105,Protocol,6,application,0.8360972126235809

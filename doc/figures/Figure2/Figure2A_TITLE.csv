@@ -1,6 +1,6 @@
 srs,attribute,value
-SRS152984,TITLE,Anaerobic bioreactor bacterial 16S rRNA V2 amplicons
-SRS423336,TITLE,"DNA sample from a human female participant in the dbGaP study ""STAMPEED: Northern Finland Birth Cohort 1966 (NFBC1966)"""
-SRS2323494,TITLE,JSJ_Q3_U5
-SRS1207595,TITLE,"DNA sample from a human male participant in the dbGaP study ""University of Washington Center for Mendelian Genomics (UW-CMG)"""
-SRS489743,TITLE,"Tumor DNA sample from Primary Blood Derived Cancer - Bone Marrow of a human male participant in the dbGaP study ""TARGET: Acute Myeloid Leukemia (AML)"""
+ERS148192,TITLE,human gut metagenome; USinfTw2.1
+ERS1055618,TITLE,PLAPOU29; Plasma samples from cancer patients - lung cancer
+ERS1158682,TITLE,Oryza sativa Japonica Group; ENA Crop Plant sample enhanced annotation
+ERS1463558,TITLE,MUS MUSCULUS
+SRS1632695,TITLE,Metagenome sample from mixed SRB culture metagenome at pH 9.5

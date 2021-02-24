@@ -1,13 +1,13 @@
 srs,attribute,value
-SRS1857692,SCIENTIFIC_NAME,dust metagenome
-SRS1484090,TITLE,"Non-tumor DNA sample from BLOOD of a human male participant in the dbGaP study ""Inflammatory Bowel Disease Exome Sequencing Study"""
-ERS994090,sex,female
-ERS1166612,genotype,dcl 234 nrpd1 quadruple mutant
-SRS2474283,strain,C57BL/6NJ
-ERS443143,age,126.0
-SRS1887746,molecular data type,SNP/CNV Genotypes (NGS)
-SRS933919,disease,Undifferentiated pleomorphic sarcoma
-SRS1382232,tissue,leaf
-ERS985666,cell type,"CD4-positive, alpha-beta T cell"
-SRS992595,protocol,Native ChIP
-SRS442959,platform,Illumina HiSeq 2000
+ERS1410651,SCIENTIFIC_NAME,soil metagenome
+SRS1761798,strain,C57BL/6
+SRS1570442,TITLE,Genomic DNA extraction 1
+SRS808032,molecular data type,SNP Genotypes (Array)
+SRS1697678,age,Day5
+SRS1118373,sex,male
+SRS2006487,tissue,liver
+SRS1372307,genotype,WRKY75 overexpression
+SRS2310849,cell type,ST
+SRS1711520,disease,DOID:3717
+SRS443718,platform,AB 5500 Genetic Analyzer
+SRS351998,protocol,TAP-Only
