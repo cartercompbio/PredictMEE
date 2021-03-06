@@ -1,6 +1,6 @@
 srs,attribute,value
-ERS148192,TITLE,human gut metagenome; USinfTw2.1
-ERS1055618,TITLE,PLAPOU29; Plasma samples from cancer patients - lung cancer
-ERS1158682,TITLE,Oryza sativa Japonica Group; ENA Crop Plant sample enhanced annotation
-ERS1463558,TITLE,MUS MUSCULUS
-SRS1632695,TITLE,Metagenome sample from mixed SRB culture metagenome at pH 9.5
+SRS115515,TITLE,"Non-tumor DNA sample from Blood of a human female participant in the dbGaP study ""NHLBI GO-ESP: Heart Cohorts Exome Sequencing Project (ARIC)"""
+ERS1616289,TITLE,20003_3#15
+SRS1542967,TITLE,NCS.001.I.ORAL1
+SRS073667,TITLE,"Human metagenome DNA sample from knee of a male participant in the dbGaP study ""Evaluation of the Cutaneous Microbiome in Psoriasis"""
+SRS1694933,TITLE,12Dp4_E11

@@ -1,13 +1,13 @@
 srs,attribute,value
-ERS1410651,SCIENTIFIC_NAME,soil metagenome
-SRS1761798,strain,C57BL/6
-SRS1570442,TITLE,Genomic DNA extraction 1
-SRS808032,molecular data type,SNP Genotypes (Array)
-SRS1697678,age,Day5
-SRS1118373,sex,male
-SRS2006487,tissue,liver
-SRS1372307,genotype,WRKY75 overexpression
-SRS2310849,cell type,ST
-SRS1711520,disease,DOID:3717
-SRS443718,platform,AB 5500 Genetic Analyzer
-SRS351998,protocol,TAP-Only
+SRS2324078,SCIENTIFIC_NAME,vaginal metagenome
+SRS2084183,TITLE,nuclei_324
+SRS1589567,molecular data type,SNP Genotypes (NGS)
+ERS1269580,age,32
+SRS1049550,strain,C57BL/6J
+SRS1946252,sex,male
+SRS818276,genotype,CAG-Stop-Dmrt1-Gfp;Sf1-Cre
+SRS689079,cell type,v6.5 mouse embryonic stem cells
+SRS981383,tissue,blood
+ERS1130022,disease,T-cell acute lymphoblastic leukemia
+SRS1179108,protocol,use treatment protocol option 2 (in batch 3 and 4) (i.e. ABH was used as RE2)
+SRS441565,platform,Illumina HiSeq 2000
