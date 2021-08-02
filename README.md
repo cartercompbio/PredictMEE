@@ -6,7 +6,7 @@
 The PredictMEE model and analysis workflow requires a variety of packages to be installed prior to running the code. The easiest way to install all the necessary packages is by installing the [Anaconda3 or minconda3 python package manager](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html).
 
 ### Data
-The data download script to automate the download and preprocessing of the SRA attribute-value pairs is still a work in progress. For now you can find the data that was used [here](https://drive.google.com/drive/u/0/folders/11-h1sSSKtuy0fbmMl24iLN0L68y0rt7-). 
+The data download script to automate the download and preprocessing of the SRA attribute-value pairs is still a work in progress. For now, you can download the preprocessed attribute-value pairs from SRA [here](https://www.synapse.org/#!Synapse:syn26023812/files/) via Synapse, along with other relavant files. 
 
 ### Word Embedding Model
 The downloadable word2vec model can be found [here](https://github.com/cambridgeltl/BioNLP-2016)
@@ -68,5 +68,5 @@ Certain notebooks require data and output from other notebooks. In order to run 
 6. predictMetadata.ipynb
 7. evaluatePrediction.ipynb
 
-## Preprint Citation
-Klie A, Tsui BY, Mollah S, Skola D, Dow M, Hsu C-N, Carter H. Increasing metadata coverage of SRA BioSample entries using deep learning based Named Entity Recognition. bioRxiv. 2020:414136. doi: 10.1101/414136.
+## Accompanying publication
+Klie, A., Tsui, B.Y., Mollah, S., Skola, D., Dow, M., Hsu, C.-N., and Carter, H. (2021). Increasing metadata coverage of SRA BioSample entries using deep learning-based named entity recognition. Database 2021. http://dx.doi.org/10.1093/database/baab021
